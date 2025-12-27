@@ -1,0 +1,2886 @@
+{
+  "version": "1.0.0",
+  "generated": "2025-12-27T16:53:38.633Z",
+  "bundles": {
+    "initial": {
+      "totalSize": 5251225,
+      "graphics": [
+        {
+          "name": "bombDropped",
+          "path": "initial/graphics/bombDropped.webp",
+          "size": 13468,
+          "originalSize": 1019423,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "bombDropped_thumb",
+          "path": "initial/graphics/bombDropped_thumb.webp",
+          "size": 172,
+          "originalSize": 450,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "bombTier1",
+          "path": "initial/graphics/bombTier1.webp",
+          "size": 18242,
+          "originalSize": 1127152,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "bombTier1_thumb",
+          "path": "initial/graphics/bombTier1_thumb.webp",
+          "size": 272,
+          "originalSize": 729,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "bombTier2",
+          "path": "initial/graphics/bombTier2.webp",
+          "size": 13342,
+          "originalSize": 1029903,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "bombTier2_thumb",
+          "path": "initial/graphics/bombTier2_thumb.webp",
+          "size": 242,
+          "originalSize": 630,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "bombTier3",
+          "path": "initial/graphics/bombTier3.webp",
+          "size": 47046,
+          "originalSize": 1412124,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "bombTier3_thumb",
+          "path": "initial/graphics/bombTier3_thumb.webp",
+          "size": 332,
+          "originalSize": 873,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "bombTier4",
+          "path": "initial/graphics/bombTier4.webp",
+          "size": 33382,
+          "originalSize": 1265977,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "bombTier4_thumb",
+          "path": "initial/graphics/bombTier4_thumb.webp",
+          "size": 358,
+          "originalSize": 1119,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "bossAceSquadron",
+          "path": "initial/graphics/bossAceSquadron.webp",
+          "size": 25564,
+          "originalSize": 1117131,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "bossAceSquadron_thumb",
+          "path": "initial/graphics/bossAceSquadron_thumb.webp",
+          "size": 224,
+          "originalSize": 359,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "cloud",
+          "path": "initial/graphics/cloud.webp",
+          "size": 24724,
+          "originalSize": 1165428,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "cloud_thumb",
+          "path": "initial/graphics/cloud_thumb.webp",
+          "size": 120,
+          "originalSize": 332,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "enemyRed",
+          "path": "initial/graphics/enemyRed.webp",
+          "size": 25294,
+          "originalSize": 1130701,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "enemyRed_thumb",
+          "path": "initial/graphics/enemyRed_thumb.webp",
+          "size": 312,
+          "originalSize": 823,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "enemySmall1",
+          "path": "initial/graphics/enemySmall1.webp",
+          "size": 19966,
+          "originalSize": 1058868,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "enemySmall1_thumb",
+          "path": "initial/graphics/enemySmall1_thumb.webp",
+          "size": 224,
+          "originalSize": 546,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "enemySmall2",
+          "path": "initial/graphics/enemySmall2.webp",
+          "size": 21648,
+          "originalSize": 1069541,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "enemySmall2_thumb",
+          "path": "initial/graphics/enemySmall2_thumb.webp",
+          "size": 224,
+          "originalSize": 670,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "explosion",
+          "path": "initial/graphics/explosion.webp",
+          "size": 31102,
+          "originalSize": 1180172,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "explosion_thumb",
+          "path": "initial/graphics/explosion_thumb.webp",
+          "size": 260,
+          "originalSize": 778,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "helicopter1",
+          "path": "initial/graphics/helicopter1.webp",
+          "size": 24940,
+          "originalSize": 1193049,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "helicopter1_thumb",
+          "path": "initial/graphics/helicopter1_thumb.webp",
+          "size": 288,
+          "originalSize": 508,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "ocean1",
+          "path": "initial/graphics/ocean1.webp",
+          "size": 42008,
+          "originalSize": 1339449,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "ocean1_thumb",
+          "path": "initial/graphics/ocean1_thumb.webp",
+          "size": 206,
+          "originalSize": 402,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "player",
+          "path": "initial/graphics/player.webp",
+          "size": 29910,
+          "originalSize": 1132668,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "player_thumb",
+          "path": "initial/graphics/player_thumb.webp",
+          "size": 244,
+          "originalSize": 695,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "powerupBomb",
+          "path": "initial/graphics/powerupBomb.webp",
+          "size": 12168,
+          "originalSize": 1042123,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "powerupBomb_thumb",
+          "path": "initial/graphics/powerupBomb_thumb.webp",
+          "size": 224,
+          "originalSize": 512,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "powerupFirepower",
+          "path": "initial/graphics/powerupFirepower.webp",
+          "size": 55516,
+          "originalSize": 1484001,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "powerupFirepowerEnhanced",
+          "path": "initial/graphics/powerupFirepowerEnhanced.webp",
+          "size": 30414,
+          "originalSize": 1240639,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "powerupFirepowerEnhanced_thumb",
+          "path": "initial/graphics/powerupFirepowerEnhanced_thumb.webp",
+          "size": 288,
+          "originalSize": 939,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "powerupFirepower_thumb",
+          "path": "initial/graphics/powerupFirepower_thumb.webp",
+          "size": 444,
+          "originalSize": 1039,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "powerupInvincibility",
+          "path": "initial/graphics/powerupInvincibility.webp",
+          "size": 23968,
+          "originalSize": 1228903,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "powerupInvincibility_thumb",
+          "path": "initial/graphics/powerupInvincibility_thumb.webp",
+          "size": 278,
+          "originalSize": 675,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "titleScreen",
+          "path": "initial/graphics/titleScreen.webp",
+          "size": 68692,
+          "originalSize": 1807376,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "titleScreen_thumb",
+          "path": "initial/graphics/titleScreen_thumb.webp",
+          "size": 420,
+          "originalSize": 1188,
+          "format": "webp",
+          "tier": "initial"
+        }
+      ],
+      "audio": [
+        {
+          "name": "campaigns/dawn-patrol/boss/track-1.mp3",
+          "path": "initial/audio/campaigns/dawn-patrol/boss/track-1.mp3",
+          "size": 1255918,
+          "originalSize": 4049903,
+          "format": "mp3",
+          "tier": "initial"
+        },
+        {
+          "name": "campaigns/dawn-patrol/level/track-1.mp3",
+          "path": "initial/audio/campaigns/dawn-patrol/level/track-1.mp3",
+          "size": 1258983,
+          "originalSize": 3987539,
+          "format": "mp3",
+          "tier": "initial"
+        },
+        {
+          "name": "campaigns/dawn-patrol/story.mp3",
+          "path": "initial/audio/campaigns/dawn-patrol/story.mp3",
+          "size": 1079685,
+          "originalSize": 3249134,
+          "format": "mp3",
+          "tier": "initial"
+        },
+        {
+          "name": "campaigns/title-page.mp3",
+          "path": "initial/audio/campaigns/title-page.mp3",
+          "size": 1090113,
+          "originalSize": 3448625,
+          "format": "mp3",
+          "tier": "initial"
+        }
+      ]
+    },
+    "progressive": {
+      "totalSize": 41313112,
+      "tier2": [
+        {
+          "name": "aaEmplacement",
+          "path": "progressive/graphics/tier-2/aaEmplacement.webp",
+          "size": 48700,
+          "originalSize": 1354274,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "aaEmplacement_thumb",
+          "path": "progressive/graphics/tier-2/aaEmplacement_thumb.webp",
+          "size": 258,
+          "originalSize": 612,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "aircraftCarrier",
+          "path": "progressive/graphics/tier-2/aircraftCarrier.webp",
+          "size": 38918,
+          "originalSize": 1340969,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "aircraftCarrier_thumb",
+          "path": "progressive/graphics/tier-2/aircraftCarrier_thumb.webp",
+          "size": 180,
+          "originalSize": 727,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "airfield",
+          "path": "progressive/graphics/tier-2/airfield.webp",
+          "size": 27672,
+          "originalSize": 1308673,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "airfield_thumb",
+          "path": "progressive/graphics/tier-2/airfield_thumb.webp",
+          "size": 252,
+          "originalSize": 558,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "battleship1",
+          "path": "progressive/graphics/tier-2/battleship1.webp",
+          "size": 28414,
+          "originalSize": 1195774,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "battleship1_thumb",
+          "path": "progressive/graphics/tier-2/battleship1_thumb.webp",
+          "size": 214,
+          "originalSize": 629,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "battleship2",
+          "path": "progressive/graphics/tier-2/battleship2.webp",
+          "size": 37134,
+          "originalSize": 1298888,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "battleship2_thumb",
+          "path": "progressive/graphics/tier-2/battleship2_thumb.webp",
+          "size": 218,
+          "originalSize": 588,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "battleship3",
+          "path": "progressive/graphics/tier-2/battleship3.webp",
+          "size": 34346,
+          "originalSize": 1202102,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "battleship3_thumb",
+          "path": "progressive/graphics/tier-2/battleship3_thumb.webp",
+          "size": 212,
+          "originalSize": 635,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossAceVeterans",
+          "path": "progressive/graphics/tier-2/bossAceVeterans.webp",
+          "size": 25126,
+          "originalSize": 1125346,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossAceVeterans_thumb",
+          "path": "progressive/graphics/tier-2/bossAceVeterans_thumb.webp",
+          "size": 212,
+          "originalSize": 396,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossCoastalCruiser",
+          "path": "progressive/graphics/tier-2/bossCoastalCruiser.webp",
+          "size": 26688,
+          "originalSize": 1124360,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossCoastalCruiser_thumb",
+          "path": "progressive/graphics/tier-2/bossCoastalCruiser_thumb.webp",
+          "size": 230,
+          "originalSize": 403,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossDeathSquadron",
+          "path": "progressive/graphics/tier-2/bossDeathSquadron.webp",
+          "size": 25240,
+          "originalSize": 1137997,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossDeathSquadron_thumb",
+          "path": "progressive/graphics/tier-2/bossDeathSquadron_thumb.webp",
+          "size": 264,
+          "originalSize": 384,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossDreadnought",
+          "path": "progressive/graphics/tier-2/bossDreadnought.webp",
+          "size": 26544,
+          "originalSize": 1154717,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossDreadnoughtElite",
+          "path": "progressive/graphics/tier-2/bossDreadnoughtElite.webp",
+          "size": 37054,
+          "originalSize": 1262280,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossDreadnoughtElite_thumb",
+          "path": "progressive/graphics/tier-2/bossDreadnoughtElite_thumb.webp",
+          "size": 340,
+          "originalSize": 489,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossDreadnought_thumb",
+          "path": "progressive/graphics/tier-2/bossDreadnought_thumb.webp",
+          "size": 270,
+          "originalSize": 358,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossExtinctionEngine",
+          "path": "progressive/graphics/tier-2/bossExtinctionEngine.webp",
+          "size": 43896,
+          "originalSize": 1361811,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossExtinctionEngine_thumb",
+          "path": "progressive/graphics/tier-2/bossExtinctionEngine_thumb.webp",
+          "size": 328,
+          "originalSize": 414,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossIronFortress",
+          "path": "progressive/graphics/tier-2/bossIronFortress.webp",
+          "size": 33882,
+          "originalSize": 1251570,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossIronFortress_thumb",
+          "path": "progressive/graphics/tier-2/bossIronFortress_thumb.webp",
+          "size": 276,
+          "originalSize": 406,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossJuggernaut",
+          "path": "progressive/graphics/tier-2/bossJuggernaut.webp",
+          "size": 49936,
+          "originalSize": 1399373,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossJuggernaut_thumb",
+          "path": "progressive/graphics/tier-2/bossJuggernaut_thumb.webp",
+          "size": 370,
+          "originalSize": 412,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossPatrolFortress",
+          "path": "progressive/graphics/tier-2/bossPatrolFortress.webp",
+          "size": 19540,
+          "originalSize": 1054240,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossPatrolFortress_thumb",
+          "path": "progressive/graphics/tier-2/bossPatrolFortress_thumb.webp",
+          "size": 244,
+          "originalSize": 430,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossPrototypeWeapon",
+          "path": "progressive/graphics/tier-2/bossPrototypeWeapon.webp",
+          "size": 27000,
+          "originalSize": 1136519,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossPrototypeWeapon_thumb",
+          "path": "progressive/graphics/tier-2/bossPrototypeWeapon_thumb.webp",
+          "size": 262,
+          "originalSize": 412,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossReconAirship",
+          "path": "progressive/graphics/tier-2/bossReconAirship.webp",
+          "size": 21146,
+          "originalSize": 1075777,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossReconAirship_thumb",
+          "path": "progressive/graphics/tier-2/bossReconAirship_thumb.webp",
+          "size": 226,
+          "originalSize": 423,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossScoutWing",
+          "path": "progressive/graphics/tier-2/bossScoutWing.webp",
+          "size": 19192,
+          "originalSize": 1045746,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossScoutWing_thumb",
+          "path": "progressive/graphics/tier-2/bossScoutWing_thumb.webp",
+          "size": 174,
+          "originalSize": 430,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossStormCarrier",
+          "path": "progressive/graphics/tier-2/bossStormCarrier.webp",
+          "size": 30558,
+          "originalSize": 1234732,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "bossStormCarrier_thumb",
+          "path": "progressive/graphics/tier-2/bossStormCarrier_thumb.webp",
+          "size": 316,
+          "originalSize": 480,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolStory_1.withText",
+          "path": "progressive/graphics/tier-2/dawnPatrolStory_1.withText.webp",
+          "size": 122586,
+          "originalSize": 2099591,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolStory_2.withText",
+          "path": "progressive/graphics/tier-2/dawnPatrolStory_2.withText.webp",
+          "size": 77504,
+          "originalSize": 1773070,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolStory_3.withText",
+          "path": "progressive/graphics/tier-2/dawnPatrolStory_3.withText.webp",
+          "size": 80896,
+          "originalSize": 1564237,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolStory_4.withText",
+          "path": "progressive/graphics/tier-2/dawnPatrolStory_4.withText.webp",
+          "size": 78288,
+          "originalSize": 1652623,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolStory_5.withText",
+          "path": "progressive/graphics/tier-2/dawnPatrolStory_5.withText.webp",
+          "size": 137418,
+          "originalSize": 2150279,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolVictory1",
+          "path": "progressive/graphics/tier-2/dawnPatrolVictory1.webp",
+          "size": 92858,
+          "originalSize": 2922249,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolVictory1_thumb",
+          "path": "progressive/graphics/tier-2/dawnPatrolVictory1_thumb.webp",
+          "size": 354,
+          "originalSize": 1795,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolVictory2",
+          "path": "progressive/graphics/tier-2/dawnPatrolVictory2.webp",
+          "size": 79332,
+          "originalSize": 4969901,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolVictory2_thumb",
+          "path": "progressive/graphics/tier-2/dawnPatrolVictory2_thumb.webp",
+          "size": 356,
+          "originalSize": 1012,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolVictory_1.withText",
+          "path": "progressive/graphics/tier-2/dawnPatrolVictory_1.withText.webp",
+          "size": 134398,
+          "originalSize": 2091450,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolVictory_2.withText",
+          "path": "progressive/graphics/tier-2/dawnPatrolVictory_2.withText.webp",
+          "size": 85764,
+          "originalSize": 1781419,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_1_1766360315981_8f56",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_1_1766360315981_8f56.webp",
+          "size": 24198,
+          "originalSize": 2035597,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_1_1766367297838_x3dc",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_1_1766367297838_x3dc.webp",
+          "size": 65186,
+          "originalSize": 2292658,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_1_1766367450382_fwjt",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_1_1766367450382_fwjt.webp",
+          "size": 46606,
+          "originalSize": 2111018,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_1_1766371172980_lxrl",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_1_1766371172980_lxrl.webp",
+          "size": 48470,
+          "originalSize": 2378844,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_2_1766372211306_wd28",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_2_1766372211306_wd28.webp",
+          "size": 66870,
+          "originalSize": 2563614,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_2_1766372221429_g03l",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_2_1766372221429_g03l.webp",
+          "size": 56586,
+          "originalSize": 2447267,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_2_1766372231422_laxz",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_2_1766372231422_laxz.webp",
+          "size": 42430,
+          "originalSize": 1997154,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_2_1766372358470_p3ab",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_2_1766372358470_p3ab.webp",
+          "size": 22540,
+          "originalSize": 1927901,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766374423629_pmsn",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766374423629_pmsn.webp",
+          "size": 23098,
+          "originalSize": 1874597,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766374455645_3gn4",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766374455645_3gn4.webp",
+          "size": 26900,
+          "originalSize": 2017066,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766374727444_ydqo",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766374727444_ydqo.webp",
+          "size": 24132,
+          "originalSize": 1882895,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452468842_kfb7",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452468842_kfb7.webp",
+          "size": 41560,
+          "originalSize": 2128859,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452500126_46uh",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452500126_46uh.webp",
+          "size": 60680,
+          "originalSize": 2388029,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452645303_c1cs",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452645303_c1cs.webp",
+          "size": 53746,
+          "originalSize": 2258392,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452713738_5ado",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452713738_5ado.webp",
+          "size": 55578,
+          "originalSize": 2214092,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452765765_11f7",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452765765_11f7.webp",
+          "size": 21902,
+          "originalSize": 1867767,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452806820_scda",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452806820_scda.webp",
+          "size": 31194,
+          "originalSize": 2111124,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452961630_r9ne",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452961630_r9ne.webp",
+          "size": 33842,
+          "originalSize": 2000306,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766453243291_3xxi",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766453243291_3xxi.webp",
+          "size": 48436,
+          "originalSize": 2276247,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_4_1766533214663_3ns2",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_4_1766533214663_3ns2.webp",
+          "size": 19288,
+          "originalSize": 1852060,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_4_1766533256029_u88o",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_4_1766533256029_u88o.webp",
+          "size": 21174,
+          "originalSize": 1935219,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_4_1766533501122_jjty",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_4_1766533501122_jjty.webp",
+          "size": 43094,
+          "originalSize": 2268814,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_4_1766533527580_m3l7",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_4_1766533527580_m3l7.webp",
+          "size": 20586,
+          "originalSize": 1820739,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766508237583_174h",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766508237583_174h.webp",
+          "size": 27188,
+          "originalSize": 1622669,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766508304125_1llf",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766508304125_1llf.webp",
+          "size": 56542,
+          "originalSize": 2255002,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766508572038_xmkd",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766508572038_xmkd.webp",
+          "size": 38252,
+          "originalSize": 2216110,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766508794665_3ohd",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766508794665_3ohd.webp",
+          "size": 23872,
+          "originalSize": 1850534,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766508910661_kqwp",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766508910661_kqwp.webp",
+          "size": 30628,
+          "originalSize": 2025816,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766509013371_1089",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766509013371_1089.webp",
+          "size": 26992,
+          "originalSize": 1946005,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766509119226_3tq2",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766509119226_3tq2.webp",
+          "size": 25926,
+          "originalSize": 1474513,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766509511164_axg2",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766509511164_axg2.webp",
+          "size": 27030,
+          "originalSize": 1801574,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_1_1766628526424_xhnl",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_1_1766628526424_xhnl.webp",
+          "size": 38720,
+          "originalSize": 2120898,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_1_1766628589455_hbjm",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_1_1766628589455_hbjm.webp",
+          "size": 64894,
+          "originalSize": 2368478,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_1_1766628673711_06ny",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_1_1766628673711_06ny.webp",
+          "size": 30916,
+          "originalSize": 2035478,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_2_1766628982172_lbvs",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_2_1766628982172_lbvs.webp",
+          "size": 57154,
+          "originalSize": 2436603,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_2_1766629035391_rz1z",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_2_1766629035391_rz1z.webp",
+          "size": 53118,
+          "originalSize": 2342170,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_2_1766629098597_x7b1",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_2_1766629098597_x7b1.webp",
+          "size": 33514,
+          "originalSize": 1921947,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_2_1766629180316_pvo6",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_2_1766629180316_pvo6.webp",
+          "size": 35740,
+          "originalSize": 1986258,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_3_1766629525244_g2hm",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_3_1766629525244_g2hm.webp",
+          "size": 46598,
+          "originalSize": 2215856,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_3_1766629569376_296f",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_3_1766629569376_296f.webp",
+          "size": 37292,
+          "originalSize": 2071214,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_3_1766629636725_5uw4",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_3_1766629636725_5uw4.webp",
+          "size": 34720,
+          "originalSize": 2008327,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_4_1766630312217_t7x7",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_4_1766630312217_t7x7.webp",
+          "size": 36564,
+          "originalSize": 2061836,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_4_1766630356641_ik0o",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_4_1766630356641_ik0o.webp",
+          "size": 49090,
+          "originalSize": 2313131,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_4_1766630407761_cl70",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_4_1766630407761_cl70.webp",
+          "size": 31072,
+          "originalSize": 1825893,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_5_1766630554201_nuza",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_5_1766630554201_nuza.webp",
+          "size": 39596,
+          "originalSize": 2179411,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_5_1766630615812_725s",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_5_1766630615812_725s.webp",
+          "size": 21854,
+          "originalSize": 1737550,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_5_1766630680675_0l7v",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_5_1766630680675_0l7v.webp",
+          "size": 51338,
+          "originalSize": 2235878,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_5_1766630783412_rdih",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_5_1766630783412_rdih.webp",
+          "size": 62486,
+          "originalSize": 2346656,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_5_1766630856577_6a1e",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_5_1766630856577_6a1e.webp",
+          "size": 32030,
+          "originalSize": 2029016,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_5_1766630937210_196u",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_5_1766630937210_196u.webp",
+          "size": 45128,
+          "originalSize": 2246294,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_6_1766631120611_t7ol",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_6_1766631120611_t7ol.webp",
+          "size": 64938,
+          "originalSize": 2378870,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_6_1766631191302_1hr7",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_6_1766631191302_1hr7.webp",
+          "size": 37046,
+          "originalSize": 1979341,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_6_1766631245129_qp6y",
+          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_6_1766631245129_qp6y.webp",
+          "size": 38738,
+          "originalSize": 1985539,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyer",
+          "path": "progressive/graphics/tier-2/destroyer.webp",
+          "size": 17426,
+          "originalSize": 1086730,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "destroyer_thumb",
+          "path": "progressive/graphics/tier-2/destroyer_thumb.webp",
+          "size": 172,
+          "originalSize": 385,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "enemyBig1",
+          "path": "progressive/graphics/tier-2/enemyBig1.webp",
+          "size": 21364,
+          "originalSize": 1168401,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "enemyBig1_thumb",
+          "path": "progressive/graphics/tier-2/enemyBig1_thumb.webp",
+          "size": 252,
+          "originalSize": 597,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "enemyBig2",
+          "path": "progressive/graphics/tier-2/enemyBig2.webp",
+          "size": 20970,
+          "originalSize": 1092846,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "enemyBig2_thumb",
+          "path": "progressive/graphics/tier-2/enemyBig2_thumb.webp",
+          "size": 252,
+          "originalSize": 431,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "enemyBig3",
+          "path": "progressive/graphics/tier-2/enemyBig3.webp",
+          "size": 22774,
+          "originalSize": 1090652,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "enemyBig3_thumb",
+          "path": "progressive/graphics/tier-2/enemyBig3_thumb.webp",
+          "size": 230,
+          "originalSize": 658,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "enemySmall3",
+          "path": "progressive/graphics/tier-2/enemySmall3.webp",
+          "size": 21906,
+          "originalSize": 1154340,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "enemySmall3_thumb",
+          "path": "progressive/graphics/tier-2/enemySmall3_thumb.webp",
+          "size": 274,
+          "originalSize": 761,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "fogPatch",
+          "path": "progressive/graphics/tier-2/fogPatch.webp",
+          "size": 5326,
+          "originalSize": 747368,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "fogPatch_thumb",
+          "path": "progressive/graphics/tier-2/fogPatch_thumb.webp",
+          "size": 168,
+          "originalSize": 410,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "fortress1",
+          "path": "progressive/graphics/tier-2/fortress1.webp",
+          "size": 110312,
+          "originalSize": 1861241,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "fortress1_thumb",
+          "path": "progressive/graphics/tier-2/fortress1_thumb.webp",
+          "size": 296,
+          "originalSize": 682,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "fuelDepot",
+          "path": "progressive/graphics/tier-2/fuelDepot.webp",
+          "size": 85764,
+          "originalSize": 1791617,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "fuelDepot_thumb",
+          "path": "progressive/graphics/tier-2/fuelDepot_thumb.webp",
+          "size": 302,
+          "originalSize": 815,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "groundCoastal",
+          "path": "progressive/graphics/tier-2/groundCoastal.webp",
+          "size": 19536,
+          "originalSize": 1057762,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "groundCoastal_thumb",
+          "path": "progressive/graphics/tier-2/groundCoastal_thumb.webp",
+          "size": 206,
+          "originalSize": 662,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "groundJungle",
+          "path": "progressive/graphics/tier-2/groundJungle.webp",
+          "size": 106454,
+          "originalSize": 1933206,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "groundJungle_thumb",
+          "path": "progressive/graphics/tier-2/groundJungle_thumb.webp",
+          "size": 194,
+          "originalSize": 592,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "groundUrban",
+          "path": "progressive/graphics/tier-2/groundUrban.webp",
+          "size": 136774,
+          "originalSize": 2025855,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "groundUrban_thumb",
+          "path": "progressive/graphics/tier-2/groundUrban_thumb.webp",
+          "size": 200,
+          "originalSize": 722,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "helicopter2",
+          "path": "progressive/graphics/tier-2/helicopter2.webp",
+          "size": 35926,
+          "originalSize": 1255067,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "helicopter2_thumb",
+          "path": "progressive/graphics/tier-2/helicopter2_thumb.webp",
+          "size": 304,
+          "originalSize": 716,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "hellfireVictory1",
+          "path": "progressive/graphics/tier-2/hellfireVictory1.webp",
+          "size": 57624,
+          "originalSize": 1665255,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "hellfireVictory1_thumb",
+          "path": "progressive/graphics/tier-2/hellfireVictory1_thumb.webp",
+          "size": 384,
+          "originalSize": 1142,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "hellfireVictory2",
+          "path": "progressive/graphics/tier-2/hellfireVictory2.webp",
+          "size": 64572,
+          "originalSize": 1637800,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "hellfireVictory2_thumb",
+          "path": "progressive/graphics/tier-2/hellfireVictory2_thumb.webp",
+          "size": 266,
+          "originalSize": 938,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "island1",
+          "path": "progressive/graphics/tier-2/island1.webp",
+          "size": 64196,
+          "originalSize": 1494957,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "island1_thumb",
+          "path": "progressive/graphics/tier-2/island1_thumb.webp",
+          "size": 240,
+          "originalSize": 610,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "island2",
+          "path": "progressive/graphics/tier-2/island2.webp",
+          "size": 50124,
+          "originalSize": 1446156,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "island2_thumb",
+          "path": "progressive/graphics/tier-2/island2_thumb.webp",
+          "size": 214,
+          "originalSize": 602,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "island3",
+          "path": "progressive/graphics/tier-2/island3.webp",
+          "size": 53626,
+          "originalSize": 1521327,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "island3_thumb",
+          "path": "progressive/graphics/tier-2/island3_thumb.webp",
+          "size": 266,
+          "originalSize": 746,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "largeTank1",
+          "path": "progressive/graphics/tier-2/largeTank1.webp",
+          "size": 29708,
+          "originalSize": 1172297,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "largeTank1_thumb",
+          "path": "progressive/graphics/tier-2/largeTank1_thumb.webp",
+          "size": 274,
+          "originalSize": 523,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "largeTank2",
+          "path": "progressive/graphics/tier-2/largeTank2.webp",
+          "size": 27722,
+          "originalSize": 1146173,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "largeTank2_thumb",
+          "path": "progressive/graphics/tier-2/largeTank2_thumb.webp",
+          "size": 216,
+          "originalSize": 408,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "largeTank3",
+          "path": "progressive/graphics/tier-2/largeTank3.webp",
+          "size": 27142,
+          "originalSize": 1171020,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "largeTank3_thumb",
+          "path": "progressive/graphics/tier-2/largeTank3_thumb.webp",
+          "size": 186,
+          "originalSize": 362,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ocean2",
+          "path": "progressive/graphics/tier-2/ocean2.webp",
+          "size": 62606,
+          "originalSize": 1329475,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ocean2_thumb",
+          "path": "progressive/graphics/tier-2/ocean2_thumb.webp",
+          "size": 118,
+          "originalSize": 242,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ocean3",
+          "path": "progressive/graphics/tier-2/ocean3.webp",
+          "size": 20304,
+          "originalSize": 1030008,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ocean3_thumb",
+          "path": "progressive/graphics/tier-2/ocean3_thumb.webp",
+          "size": 76,
+          "originalSize": 207,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ocean4",
+          "path": "progressive/graphics/tier-2/ocean4.webp",
+          "size": 51096,
+          "originalSize": 1321046,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ocean4_thumb",
+          "path": "progressive/graphics/tier-2/ocean4_thumb.webp",
+          "size": 274,
+          "originalSize": 275,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ocean5",
+          "path": "progressive/graphics/tier-2/ocean5.webp",
+          "size": 30404,
+          "originalSize": 1228782,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ocean5_thumb",
+          "path": "progressive/graphics/tier-2/ocean5_thumb.webp",
+          "size": 88,
+          "originalSize": 231,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ptBoat",
+          "path": "progressive/graphics/tier-2/ptBoat.webp",
+          "size": 15932,
+          "originalSize": 1058789,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ptBoat_thumb",
+          "path": "progressive/graphics/tier-2/ptBoat_thumb.webp",
+          "size": 220,
+          "originalSize": 482,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "radarStation",
+          "path": "progressive/graphics/tier-2/radarStation.webp",
+          "size": 46178,
+          "originalSize": 1372053,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "radarStation_thumb",
+          "path": "progressive/graphics/tier-2/radarStation_thumb.webp",
+          "size": 272,
+          "originalSize": 498,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "sandParticle",
+          "path": "progressive/graphics/tier-2/sandParticle.webp",
+          "size": 14486,
+          "originalSize": 864362,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "sandParticle_thumb",
+          "path": "progressive/graphics/tier-2/sandParticle_thumb.webp",
+          "size": 214,
+          "originalSize": 469,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "steelVanguardVictory1",
+          "path": "progressive/graphics/tier-2/steelVanguardVictory1.webp",
+          "size": 72166,
+          "originalSize": 1916901,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "steelVanguardVictory1_thumb",
+          "path": "progressive/graphics/tier-2/steelVanguardVictory1_thumb.webp",
+          "size": 398,
+          "originalSize": 1264,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "steelVanguardVictory2",
+          "path": "progressive/graphics/tier-2/steelVanguardVictory2.webp",
+          "size": 106316,
+          "originalSize": 1837490,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "steelVanguardVictory2_thumb",
+          "path": "progressive/graphics/tier-2/steelVanguardVictory2_thumb.webp",
+          "size": 366,
+          "originalSize": 1330,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "submarine",
+          "path": "progressive/graphics/tier-2/submarine.webp",
+          "size": 18696,
+          "originalSize": 1046361,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "submarine_thumb",
+          "path": "progressive/graphics/tier-2/submarine_thumb.webp",
+          "size": 172,
+          "originalSize": 322,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "supplyConvoy",
+          "path": "progressive/graphics/tier-2/supplyConvoy.webp",
+          "size": 12404,
+          "originalSize": 960950,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "supplyConvoy_thumb",
+          "path": "progressive/graphics/tier-2/supplyConvoy_thumb.webp",
+          "size": 152,
+          "originalSize": 231,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "supplyShip",
+          "path": "progressive/graphics/tier-2/supplyShip.webp",
+          "size": 23092,
+          "originalSize": 1159029,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "supplyShip_thumb",
+          "path": "progressive/graphics/tier-2/supplyShip_thumb.webp",
+          "size": 176,
+          "originalSize": 349,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tank1",
+          "path": "progressive/graphics/tier-2/tank1.webp",
+          "size": 23370,
+          "originalSize": 1149203,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tank1_thumb",
+          "path": "progressive/graphics/tier-2/tank1_thumb.webp",
+          "size": 196,
+          "originalSize": 387,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tank2",
+          "path": "progressive/graphics/tier-2/tank2.webp",
+          "size": 33846,
+          "originalSize": 1283854,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tank2_thumb",
+          "path": "progressive/graphics/tier-2/tank2_thumb.webp",
+          "size": 250,
+          "originalSize": 579,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tank3",
+          "path": "progressive/graphics/tier-2/tank3.webp",
+          "size": 26628,
+          "originalSize": 1226026,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tank3_thumb",
+          "path": "progressive/graphics/tier-2/tank3_thumb.webp",
+          "size": 194,
+          "originalSize": 492,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetBeach",
+          "path": "progressive/graphics/tier-2/tilesetBeach.webp",
+          "size": 53332,
+          "originalSize": 1503081,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetBeach_thumb",
+          "path": "progressive/graphics/tier-2/tilesetBeach_thumb.webp",
+          "size": 234,
+          "originalSize": 515,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetConcrete",
+          "path": "progressive/graphics/tier-2/tilesetConcrete.webp",
+          "size": 46304,
+          "originalSize": 1656640,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetConcrete_thumb",
+          "path": "progressive/graphics/tier-2/tilesetConcrete_thumb.webp",
+          "size": 166,
+          "originalSize": 473,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetGrass",
+          "path": "progressive/graphics/tier-2/tilesetGrass.webp",
+          "size": 46248,
+          "originalSize": 1302850,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetGrass_thumb",
+          "path": "progressive/graphics/tier-2/tilesetGrass_thumb.webp",
+          "size": 240,
+          "originalSize": 630,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetJungle",
+          "path": "progressive/graphics/tier-2/tilesetJungle.webp",
+          "size": 129696,
+          "originalSize": 2085885,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetJungle_thumb",
+          "path": "progressive/graphics/tier-2/tilesetJungle_thumb.webp",
+          "size": 330,
+          "originalSize": 1028,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetOcean",
+          "path": "progressive/graphics/tier-2/tilesetOcean.webp",
+          "size": 27104,
+          "originalSize": 1178802,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetOcean_thumb",
+          "path": "progressive/graphics/tier-2/tilesetOcean_thumb.webp",
+          "size": 180,
+          "originalSize": 710,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetStructures",
+          "path": "progressive/graphics/tier-2/tilesetStructures.webp",
+          "size": 30966,
+          "originalSize": 1163162,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetStructures_thumb",
+          "path": "progressive/graphics/tier-2/tilesetStructures_thumb.webp",
+          "size": 326,
+          "originalSize": 508,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetTransitions",
+          "path": "progressive/graphics/tier-2/tilesetTransitions.webp",
+          "size": 53608,
+          "originalSize": 1584703,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetTransitions_thumb",
+          "path": "progressive/graphics/tier-2/tilesetTransitions_thumb.webp",
+          "size": 376,
+          "originalSize": 902,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetVehicles",
+          "path": "progressive/graphics/tier-2/tilesetVehicles.webp",
+          "size": 25332,
+          "originalSize": 1117086,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetVehicles_thumb",
+          "path": "progressive/graphics/tier-2/tilesetVehicles_thumb.webp",
+          "size": 244,
+          "originalSize": 427,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "turretBaseAA",
+          "path": "progressive/graphics/tier-2/turretBaseAA.webp",
+          "size": 33686,
+          "originalSize": 1260858,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "turretBaseAA_thumb",
+          "path": "progressive/graphics/tier-2/turretBaseAA_thumb.webp",
+          "size": 222,
+          "originalSize": 590,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "turretBaseFortress",
+          "path": "progressive/graphics/tier-2/turretBaseFortress.webp",
+          "size": 10366,
+          "originalSize": 952703,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "turretBaseFortress_thumb",
+          "path": "progressive/graphics/tier-2/turretBaseFortress_thumb.webp",
+          "size": 170,
+          "originalSize": 486,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "turretBaseNaval",
+          "path": "progressive/graphics/tier-2/turretBaseNaval.webp",
+          "size": 37988,
+          "originalSize": 1343172,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "turretBaseNaval_thumb",
+          "path": "progressive/graphics/tier-2/turretBaseNaval_thumb.webp",
+          "size": 252,
+          "originalSize": 441,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "turretCannonAA",
+          "path": "progressive/graphics/tier-2/turretCannonAA.webp",
+          "size": 8734,
+          "originalSize": 929577,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "turretCannonAA_thumb",
+          "path": "progressive/graphics/tier-2/turretCannonAA_thumb.webp",
+          "size": 164,
+          "originalSize": 378,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "turretCannonFortress",
+          "path": "progressive/graphics/tier-2/turretCannonFortress.webp",
+          "size": 12888,
+          "originalSize": 1003061,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "turretCannonFortress_thumb",
+          "path": "progressive/graphics/tier-2/turretCannonFortress_thumb.webp",
+          "size": 190,
+          "originalSize": 299,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "turretCannonNaval",
+          "path": "progressive/graphics/tier-2/turretCannonNaval.webp",
+          "size": 9770,
+          "originalSize": 972173,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "turretCannonNaval_thumb",
+          "path": "progressive/graphics/tier-2/turretCannonNaval_thumb.webp",
+          "size": 206,
+          "originalSize": 283,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "village1",
+          "path": "progressive/graphics/tier-2/village1.webp",
+          "size": 44138,
+          "originalSize": 1338276,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "village1_thumb",
+          "path": "progressive/graphics/tier-2/village1_thumb.webp",
+          "size": 240,
+          "originalSize": 784,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "village2",
+          "path": "progressive/graphics/tier-2/village2.webp",
+          "size": 36740,
+          "originalSize": 1288467,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "village2_thumb",
+          "path": "progressive/graphics/tier-2/village2_thumb.webp",
+          "size": 216,
+          "originalSize": 700,
+          "format": "webp",
+          "tier": "tier2"
+        }
+      ],
+      "tier3": [
+        {
+          "name": "bossExperimentalAirship",
+          "path": "progressive/graphics/tier-3/bossExperimentalAirship.webp",
+          "size": 26830,
+          "originalSize": 1159920,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "bossExperimentalAirship_thumb",
+          "path": "progressive/graphics/tier-3/bossExperimentalAirship_thumb.webp",
+          "size": 286,
+          "originalSize": 394,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "bossFlyingFortress",
+          "path": "progressive/graphics/tier-3/bossFlyingFortress.webp",
+          "size": 31564,
+          "originalSize": 1215373,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "bossFlyingFortress_thumb",
+          "path": "progressive/graphics/tier-3/bossFlyingFortress_thumb.webp",
+          "size": 282,
+          "originalSize": 430,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "bossSuperBattleship",
+          "path": "progressive/graphics/tier-3/bossSuperBattleship.webp",
+          "size": 31122,
+          "originalSize": 1207727,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "bossSuperBattleship_thumb",
+          "path": "progressive/graphics/tier-3/bossSuperBattleship_thumb.webp",
+          "size": 254,
+          "originalSize": 385,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "bossUltimateWeapon",
+          "path": "progressive/graphics/tier-3/bossUltimateWeapon.webp",
+          "size": 38258,
+          "originalSize": 1312549,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "bossUltimateWeapon_thumb",
+          "path": "progressive/graphics/tier-3/bossUltimateWeapon_thumb.webp",
+          "size": 330,
+          "originalSize": 425,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "dawnPatrolStory1",
+          "path": "progressive/graphics/tier-3/dawnPatrolStory1.webp",
+          "size": 108222,
+          "originalSize": 952181,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "dawnPatrolStory1",
+          "path": "progressive/graphics/tier-3/dawnPatrolStory1.webp",
+          "size": 108222,
+          "originalSize": 1955007,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "dawnPatrolStory1_thumb",
+          "path": "progressive/graphics/tier-3/dawnPatrolStory1_thumb.webp",
+          "size": 408,
+          "originalSize": 1225,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "dawnPatrolStory2",
+          "path": "progressive/graphics/tier-3/dawnPatrolStory2.webp",
+          "size": 80334,
+          "originalSize": 896350,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "dawnPatrolStory2_thumb",
+          "path": "progressive/graphics/tier-3/dawnPatrolStory2_thumb.webp",
+          "size": 364,
+          "originalSize": 1486,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "dawnPatrolStory3",
+          "path": "progressive/graphics/tier-3/dawnPatrolStory3.webp",
+          "size": 83900,
+          "originalSize": 1133280,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "dawnPatrolStory3_thumb",
+          "path": "progressive/graphics/tier-3/dawnPatrolStory3_thumb.webp",
+          "size": 440,
+          "originalSize": 1726,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "dawnPatrolStory4",
+          "path": "progressive/graphics/tier-3/dawnPatrolStory4.webp",
+          "size": 77402,
+          "originalSize": 1350712,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "dawnPatrolStory4_thumb",
+          "path": "progressive/graphics/tier-3/dawnPatrolStory4_thumb.webp",
+          "size": 354,
+          "originalSize": 1285,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "dawnPatrolStory5",
+          "path": "progressive/graphics/tier-3/dawnPatrolStory5.webp",
+          "size": 135112,
+          "originalSize": 1912683,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "dawnPatrolStory5_thumb",
+          "path": "progressive/graphics/tier-3/dawnPatrolStory5_thumb.webp",
+          "size": 386,
+          "originalSize": 1045,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "hellfireStory1",
+          "path": "progressive/graphics/tier-3/hellfireStory1.webp",
+          "size": 150816,
+          "originalSize": 1965280,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "hellfireStory1_thumb",
+          "path": "progressive/graphics/tier-3/hellfireStory1_thumb.webp",
+          "size": 420,
+          "originalSize": 753,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "hellfireStory2",
+          "path": "progressive/graphics/tier-3/hellfireStory2.webp",
+          "size": 84840,
+          "originalSize": 1629921,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "hellfireStory2_thumb",
+          "path": "progressive/graphics/tier-3/hellfireStory2_thumb.webp",
+          "size": 442,
+          "originalSize": 1583,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "hellfireStory3",
+          "path": "progressive/graphics/tier-3/hellfireStory3.webp",
+          "size": 162864,
+          "originalSize": 2140661,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "hellfireStory3_thumb",
+          "path": "progressive/graphics/tier-3/hellfireStory3_thumb.webp",
+          "size": 452,
+          "originalSize": 1243,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "hellfireStory4",
+          "path": "progressive/graphics/tier-3/hellfireStory4.webp",
+          "size": 110300,
+          "originalSize": 1820953,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "hellfireStory4_thumb",
+          "path": "progressive/graphics/tier-3/hellfireStory4_thumb.webp",
+          "size": 358,
+          "originalSize": 989,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "hellfireStory5",
+          "path": "progressive/graphics/tier-3/hellfireStory5.webp",
+          "size": 95064,
+          "originalSize": 1694196,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "hellfireStory5_thumb",
+          "path": "progressive/graphics/tier-3/hellfireStory5_thumb.webp",
+          "size": 408,
+          "originalSize": 982,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "steelVanguardStory1",
+          "path": "progressive/graphics/tier-3/steelVanguardStory1.webp",
+          "size": 92324,
+          "originalSize": 1823278,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "steelVanguardStory1_thumb",
+          "path": "progressive/graphics/tier-3/steelVanguardStory1_thumb.webp",
+          "size": 412,
+          "originalSize": 1169,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "steelVanguardStory2",
+          "path": "progressive/graphics/tier-3/steelVanguardStory2.webp",
+          "size": 100902,
+          "originalSize": 1741296,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "steelVanguardStory2_thumb",
+          "path": "progressive/graphics/tier-3/steelVanguardStory2_thumb.webp",
+          "size": 304,
+          "originalSize": 1048,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "steelVanguardStory3",
+          "path": "progressive/graphics/tier-3/steelVanguardStory3.webp",
+          "size": 62048,
+          "originalSize": 1413159,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "steelVanguardStory3_thumb",
+          "path": "progressive/graphics/tier-3/steelVanguardStory3_thumb.webp",
+          "size": 298,
+          "originalSize": 702,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "steelVanguardStory4",
+          "path": "progressive/graphics/tier-3/steelVanguardStory4.webp",
+          "size": 68044,
+          "originalSize": 1591921,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "steelVanguardStory4_thumb",
+          "path": "progressive/graphics/tier-3/steelVanguardStory4_thumb.webp",
+          "size": 332,
+          "originalSize": 818,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "steelVanguardStory5",
+          "path": "progressive/graphics/tier-3/steelVanguardStory5.webp",
+          "size": 72094,
+          "originalSize": 1440940,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "steelVanguardStory5_thumb",
+          "path": "progressive/graphics/tier-3/steelVanguardStory5_thumb.webp",
+          "size": 446,
+          "originalSize": 1108,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "storyPanel1",
+          "path": "progressive/graphics/tier-3/storyPanel1.webp",
+          "size": 79056,
+          "originalSize": 1758729,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "storyPanel1_thumb",
+          "path": "progressive/graphics/tier-3/storyPanel1_thumb.webp",
+          "size": 310,
+          "originalSize": 946,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "storyPanel2",
+          "path": "progressive/graphics/tier-3/storyPanel2.webp",
+          "size": 98396,
+          "originalSize": 1706424,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "storyPanel2_thumb",
+          "path": "progressive/graphics/tier-3/storyPanel2_thumb.webp",
+          "size": 424,
+          "originalSize": 1712,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "storyPanel3",
+          "path": "progressive/graphics/tier-3/storyPanel3.webp",
+          "size": 59540,
+          "originalSize": 1395610,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "storyPanel3_thumb",
+          "path": "progressive/graphics/tier-3/storyPanel3_thumb.webp",
+          "size": 366,
+          "originalSize": 1380,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "storyPanel4",
+          "path": "progressive/graphics/tier-3/storyPanel4.webp",
+          "size": 105308,
+          "originalSize": 1581254,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "storyPanel4_thumb",
+          "path": "progressive/graphics/tier-3/storyPanel4_thumb.webp",
+          "size": 438,
+          "originalSize": 1709,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "storyPanel5",
+          "path": "progressive/graphics/tier-3/storyPanel5.webp",
+          "size": 85450,
+          "originalSize": 1649209,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "storyPanel5_thumb",
+          "path": "progressive/graphics/tier-3/storyPanel5_thumb.webp",
+          "size": 424,
+          "originalSize": 1533,
+          "format": "webp",
+          "tier": "tier3"
+        }
+      ],
+      "terrain": [
+        {
+          "name": "campaigns/dawn-patrol-1",
+          "path": "progressive/graphics/campaigns/dawn-patrol-1.webp",
+          "size": 17936,
+          "originalSize": 457091,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/dawn-patrol-2",
+          "path": "progressive/graphics/campaigns/dawn-patrol-2.webp",
+          "size": 25794,
+          "originalSize": 691490,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/dawn-patrol-3",
+          "path": "progressive/graphics/campaigns/dawn-patrol-3.webp",
+          "size": 27454,
+          "originalSize": 502854,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/dawn-patrol-4",
+          "path": "progressive/graphics/campaigns/dawn-patrol-4.webp",
+          "size": 41308,
+          "originalSize": 636555,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/dawn-patrol-5",
+          "path": "progressive/graphics/campaigns/dawn-patrol-5.webp",
+          "size": 45522,
+          "originalSize": 718742,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/hellfire-horizon-1",
+          "path": "progressive/graphics/campaigns/hellfire-horizon-1.webp",
+          "size": 24868,
+          "originalSize": 664274,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/hellfire-horizon-2",
+          "path": "progressive/graphics/campaigns/hellfire-horizon-2.webp",
+          "size": 53872,
+          "originalSize": 737015,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/hellfire-horizon-3",
+          "path": "progressive/graphics/campaigns/hellfire-horizon-3.webp",
+          "size": 39410,
+          "originalSize": 708520,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/hellfire-horizon-4",
+          "path": "progressive/graphics/campaigns/hellfire-horizon-4.webp",
+          "size": 31044,
+          "originalSize": 539566,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/hellfire-horizon-5",
+          "path": "progressive/graphics/campaigns/hellfire-horizon-5.webp",
+          "size": 25870,
+          "originalSize": 486655,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/hellfire-horizon-6",
+          "path": "progressive/graphics/campaigns/hellfire-horizon-6.webp",
+          "size": 49352,
+          "originalSize": 742632,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/hellfire-horizon-7",
+          "path": "progressive/graphics/campaigns/hellfire-horizon-7.webp",
+          "size": 24304,
+          "originalSize": 474180,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/steel-vanguard-1",
+          "path": "progressive/graphics/campaigns/steel-vanguard-1.webp",
+          "size": 27442,
+          "originalSize": 587590,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/steel-vanguard-2",
+          "path": "progressive/graphics/campaigns/steel-vanguard-2.webp",
+          "size": 22164,
+          "originalSize": 507497,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/steel-vanguard-3",
+          "path": "progressive/graphics/campaigns/steel-vanguard-3.webp",
+          "size": 11860,
+          "originalSize": 428859,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/steel-vanguard-4",
+          "path": "progressive/graphics/campaigns/steel-vanguard-4.webp",
+          "size": 19314,
+          "originalSize": 494374,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/steel-vanguard-5",
+          "path": "progressive/graphics/campaigns/steel-vanguard-5.webp",
+          "size": 13372,
+          "originalSize": 450471,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "campaigns/steel-vanguard-6",
+          "path": "progressive/graphics/campaigns/steel-vanguard-6.webp",
+          "size": 14246,
+          "originalSize": 479907,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "terrainLevel1",
+          "path": "progressive/graphics/terrain/terrainLevel1.webp",
+          "size": 302674,
+          "originalSize": 30030762,
+          "format": "webp",
+          "tier": "terrain"
+        },
+        {
+          "name": "terrainLevel1_thumb",
+          "path": "progressive/graphics/terrain/terrainLevel1_thumb.webp",
+          "size": 314,
+          "originalSize": 1686,
+          "format": "webp",
+          "tier": "terrain"
+        },
+        {
+          "name": "terrainLevel2",
+          "path": "progressive/graphics/terrain/terrainLevel2.webp",
+          "size": 224774,
+          "originalSize": 24354784,
+          "format": "webp",
+          "tier": "terrain"
+        },
+        {
+          "name": "terrainLevel2_thumb",
+          "path": "progressive/graphics/terrain/terrainLevel2_thumb.webp",
+          "size": 844,
+          "originalSize": 4271,
+          "format": "webp",
+          "tier": "terrain"
+        },
+        {
+          "name": "terrainLevel3",
+          "path": "progressive/graphics/terrain/terrainLevel3.webp",
+          "size": 261376,
+          "originalSize": 26455390,
+          "format": "webp",
+          "tier": "terrain"
+        },
+        {
+          "name": "terrainLevel3_thumb",
+          "path": "progressive/graphics/terrain/terrainLevel3_thumb.webp",
+          "size": 1020,
+          "originalSize": 4610,
+          "format": "webp",
+          "tier": "terrain"
+        },
+        {
+          "name": "terrainLevel4",
+          "path": "progressive/graphics/terrain/terrainLevel4.webp",
+          "size": 359022,
+          "originalSize": 34488377,
+          "format": "webp",
+          "tier": "terrain"
+        },
+        {
+          "name": "terrainLevel4_thumb",
+          "path": "progressive/graphics/terrain/terrainLevel4_thumb.webp",
+          "size": 698,
+          "originalSize": 3749,
+          "format": "webp",
+          "tier": "terrain"
+        },
+        {
+          "name": "terrainLevel5",
+          "path": "progressive/graphics/terrain/terrainLevel5.webp",
+          "size": 237176,
+          "originalSize": 24458136,
+          "format": "webp",
+          "tier": "terrain"
+        },
+        {
+          "name": "terrainLevel5_thumb",
+          "path": "progressive/graphics/terrain/terrainLevel5_thumb.webp",
+          "size": 1022,
+          "originalSize": 4450,
+          "format": "webp",
+          "tier": "terrain"
+        }
+      ],
+      "audio": [
+        {
+          "name": "campaigns/dawn-patrol/ending.mp3",
+          "path": "progressive/audio/campaigns/dawn-patrol/ending.mp3",
+          "size": 1029708,
+          "originalSize": 2991567,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/dawn-patrol/level/track-2.mp3",
+          "path": "progressive/audio/campaigns/dawn-patrol/level/track-2.mp3",
+          "size": 1338029,
+          "originalSize": 4515222,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/dawn-patrol/level/track-3.mp3",
+          "path": "progressive/audio/campaigns/dawn-patrol/level/track-3.mp3",
+          "size": 1464218,
+          "originalSize": 4987559,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/dawn-patrol/level/track-4.mp3",
+          "path": "progressive/audio/campaigns/dawn-patrol/level/track-4.mp3",
+          "size": 1219093,
+          "originalSize": 4108999,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/dawn-patrol/level/track-5.mp3",
+          "path": "progressive/audio/campaigns/dawn-patrol/level/track-5.mp3",
+          "size": 1134722,
+          "originalSize": 3636419,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/hellfire-horizon/boss/track-1.mp3",
+          "path": "progressive/audio/campaigns/hellfire-horizon/boss/track-1.mp3",
+          "size": 749033,
+          "originalSize": 1741096,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/hellfire-horizon/ending.mp3",
+          "path": "progressive/audio/campaigns/hellfire-horizon/ending.mp3",
+          "size": 1063150,
+          "originalSize": 3432238,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/hellfire-horizon/level/track-1.mp3",
+          "path": "progressive/audio/campaigns/hellfire-horizon/level/track-1.mp3",
+          "size": 1039243,
+          "originalSize": 3467279,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/hellfire-horizon/level/track-2.mp3",
+          "path": "progressive/audio/campaigns/hellfire-horizon/level/track-2.mp3",
+          "size": 890012,
+          "originalSize": 2965335,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/hellfire-horizon/level/track-3.mp3",
+          "path": "progressive/audio/campaigns/hellfire-horizon/level/track-3.mp3",
+          "size": 1206444,
+          "originalSize": 4279798,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/hellfire-horizon/level/track-4.mp3",
+          "path": "progressive/audio/campaigns/hellfire-horizon/level/track-4.mp3",
+          "size": 877456,
+          "originalSize": 2973823,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/hellfire-horizon/level/track-5.mp3",
+          "path": "progressive/audio/campaigns/hellfire-horizon/level/track-5.mp3",
+          "size": 921772,
+          "originalSize": 2740476,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/hellfire-horizon/level/track-6.mp3",
+          "path": "progressive/audio/campaigns/hellfire-horizon/level/track-6.mp3",
+          "size": 1035305,
+          "originalSize": 3205556,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/hellfire-horizon/level/track-7.mp3",
+          "path": "progressive/audio/campaigns/hellfire-horizon/level/track-7.mp3",
+          "size": 1112262,
+          "originalSize": 3450455,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/hellfire-horizon/story.mp3",
+          "path": "progressive/audio/campaigns/hellfire-horizon/story.mp3",
+          "size": 821032,
+          "originalSize": 2363445,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/steel-vanguard/boss/track-1.mp3",
+          "path": "progressive/audio/campaigns/steel-vanguard/boss/track-1.mp3",
+          "size": 1282522,
+          "originalSize": 4130247,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/steel-vanguard/ending.mp3",
+          "path": "progressive/audio/campaigns/steel-vanguard/ending.mp3",
+          "size": 1040038,
+          "originalSize": 3403470,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/steel-vanguard/level/track-1.mp3",
+          "path": "progressive/audio/campaigns/steel-vanguard/level/track-1.mp3",
+          "size": 1167521,
+          "originalSize": 3526653,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/steel-vanguard/level/track-2.mp3",
+          "path": "progressive/audio/campaigns/steel-vanguard/level/track-2.mp3",
+          "size": 1232313,
+          "originalSize": 4358428,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/steel-vanguard/level/track-3.mp3",
+          "path": "progressive/audio/campaigns/steel-vanguard/level/track-3.mp3",
+          "size": 1133561,
+          "originalSize": 3640585,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/steel-vanguard/level/track-4.mp3",
+          "path": "progressive/audio/campaigns/steel-vanguard/level/track-4.mp3",
+          "size": 1370962,
+          "originalSize": 4259468,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/steel-vanguard/level/track-5.mp3",
+          "path": "progressive/audio/campaigns/steel-vanguard/level/track-5.mp3",
+          "size": 1364953,
+          "originalSize": 4945418,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/steel-vanguard/level/track-6.mp3",
+          "path": "progressive/audio/campaigns/steel-vanguard/level/track-6.mp3",
+          "size": 1275838,
+          "originalSize": 4207143,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "campaigns/steel-vanguard/story.mp3",
+          "path": "progressive/audio/campaigns/steel-vanguard/story.mp3",
+          "size": 959519,
+          "originalSize": 2902122,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "legacy/bossmusic-track1.mp3",
+          "path": "progressive/audio/legacy/bossmusic-track1.mp3",
+          "size": 212207,
+          "originalSize": 550869,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "legacy/bossmusic-track2.mp3",
+          "path": "progressive/audio/legacy/bossmusic-track2.mp3",
+          "size": 212207,
+          "originalSize": 550869,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "legacy/bossmusic-track3.mp3",
+          "path": "progressive/audio/legacy/bossmusic-track3.mp3",
+          "size": 212207,
+          "originalSize": 550869,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "legacy/bossmusic-track4.mp3",
+          "path": "progressive/audio/legacy/bossmusic-track4.mp3",
+          "size": 212207,
+          "originalSize": 550869,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "legacy/bossmusic-track5.mp3",
+          "path": "progressive/audio/legacy/bossmusic-track5.mp3",
+          "size": 212207,
+          "originalSize": 550869,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "legacy/levelmusic-track1.mp3",
+          "path": "progressive/audio/legacy/levelmusic-track1.mp3",
+          "size": 693173,
+          "originalSize": 2201057,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "legacy/levelmusic-track2.mp3",
+          "path": "progressive/audio/legacy/levelmusic-track2.mp3",
+          "size": 941531,
+          "originalSize": 2840108,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "legacy/levelmusic-track3.mp3",
+          "path": "progressive/audio/legacy/levelmusic-track3.mp3",
+          "size": 693173,
+          "originalSize": 2201057,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "legacy/levelmusic-track4.mp3",
+          "path": "progressive/audio/legacy/levelmusic-track4.mp3",
+          "size": 693173,
+          "originalSize": 2201057,
+          "format": "mp3",
+          "tier": "progressive"
+        },
+        {
+          "name": "legacy/levelmusic-track5.mp3",
+          "path": "progressive/audio/legacy/levelmusic-track5.mp3",
+          "size": 693173,
+          "originalSize": 2201057,
+          "format": "mp3",
+          "tier": "progressive"
+        }
+      ]
+    }
+  },
+  "totals": {
+    "originalSize": 548779009,
+    "compressedSize": 46564337,
+    "savings": "91.5%",
+    "fileCount": 357
+  }
+}

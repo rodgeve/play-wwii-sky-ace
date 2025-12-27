@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated": "2025-12-27T16:53:38.633Z",
+  "generated": "2025-12-27T17:27:13.846Z",
   "bundles": {
     "initial": {
       "totalSize": 5251225,
@@ -346,7 +346,7 @@
       ]
     },
     "progressive": {
-      "totalSize": 41313112,
+      "totalSize": 42218832,
       "tier2": [
         {
           "name": "aaEmplacement",
@@ -2379,7 +2379,7 @@
         {
           "name": "campaigns/dawn-patrol-1",
           "path": "progressive/graphics/campaigns/dawn-patrol-1.webp",
-          "size": 17936,
+          "size": 27744,
           "originalSize": 457091,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2387,7 +2387,7 @@
         {
           "name": "campaigns/dawn-patrol-2",
           "path": "progressive/graphics/campaigns/dawn-patrol-2.webp",
-          "size": 25794,
+          "size": 47362,
           "originalSize": 691490,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2395,7 +2395,7 @@
         {
           "name": "campaigns/dawn-patrol-3",
           "path": "progressive/graphics/campaigns/dawn-patrol-3.webp",
-          "size": 27454,
+          "size": 43766,
           "originalSize": 502854,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2403,7 +2403,7 @@
         {
           "name": "campaigns/dawn-patrol-4",
           "path": "progressive/graphics/campaigns/dawn-patrol-4.webp",
-          "size": 41308,
+          "size": 74002,
           "originalSize": 636555,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2411,7 +2411,7 @@
         {
           "name": "campaigns/dawn-patrol-5",
           "path": "progressive/graphics/campaigns/dawn-patrol-5.webp",
-          "size": 45522,
+          "size": 71216,
           "originalSize": 718742,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2419,7 +2419,7 @@
         {
           "name": "campaigns/hellfire-horizon-1",
           "path": "progressive/graphics/campaigns/hellfire-horizon-1.webp",
-          "size": 24868,
+          "size": 40922,
           "originalSize": 664274,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2427,7 +2427,7 @@
         {
           "name": "campaigns/hellfire-horizon-2",
           "path": "progressive/graphics/campaigns/hellfire-horizon-2.webp",
-          "size": 53872,
+          "size": 86982,
           "originalSize": 737015,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2435,7 +2435,7 @@
         {
           "name": "campaigns/hellfire-horizon-3",
           "path": "progressive/graphics/campaigns/hellfire-horizon-3.webp",
-          "size": 39410,
+          "size": 63344,
           "originalSize": 708520,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2443,7 +2443,7 @@
         {
           "name": "campaigns/hellfire-horizon-4",
           "path": "progressive/graphics/campaigns/hellfire-horizon-4.webp",
-          "size": 31044,
+          "size": 47634,
           "originalSize": 539566,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2451,7 +2451,7 @@
         {
           "name": "campaigns/hellfire-horizon-5",
           "path": "progressive/graphics/campaigns/hellfire-horizon-5.webp",
-          "size": 25870,
+          "size": 40322,
           "originalSize": 486655,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2459,7 +2459,7 @@
         {
           "name": "campaigns/hellfire-horizon-6",
           "path": "progressive/graphics/campaigns/hellfire-horizon-6.webp",
-          "size": 49352,
+          "size": 76834,
           "originalSize": 742632,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2467,7 +2467,7 @@
         {
           "name": "campaigns/hellfire-horizon-7",
           "path": "progressive/graphics/campaigns/hellfire-horizon-7.webp",
-          "size": 24304,
+          "size": 37056,
           "originalSize": 474180,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2475,7 +2475,7 @@
         {
           "name": "campaigns/steel-vanguard-1",
           "path": "progressive/graphics/campaigns/steel-vanguard-1.webp",
-          "size": 27442,
+          "size": 47016,
           "originalSize": 587590,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2483,7 +2483,7 @@
         {
           "name": "campaigns/steel-vanguard-2",
           "path": "progressive/graphics/campaigns/steel-vanguard-2.webp",
-          "size": 22164,
+          "size": 35170,
           "originalSize": 507497,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2491,7 +2491,7 @@
         {
           "name": "campaigns/steel-vanguard-3",
           "path": "progressive/graphics/campaigns/steel-vanguard-3.webp",
-          "size": 11860,
+          "size": 18464,
           "originalSize": 428859,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2499,7 +2499,7 @@
         {
           "name": "campaigns/steel-vanguard-4",
           "path": "progressive/graphics/campaigns/steel-vanguard-4.webp",
-          "size": 19314,
+          "size": 30640,
           "originalSize": 494374,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2507,7 +2507,7 @@
         {
           "name": "campaigns/steel-vanguard-5",
           "path": "progressive/graphics/campaigns/steel-vanguard-5.webp",
-          "size": 13372,
+          "size": 22536,
           "originalSize": 450471,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2515,7 +2515,7 @@
         {
           "name": "campaigns/steel-vanguard-6",
           "path": "progressive/graphics/campaigns/steel-vanguard-6.webp",
-          "size": 14246,
+          "size": 23982,
           "originalSize": 479907,
           "format": "webp",
           "tier": "campaign-terrain"
@@ -2523,7 +2523,7 @@
         {
           "name": "terrainLevel1",
           "path": "progressive/graphics/terrain/terrainLevel1.webp",
-          "size": 302674,
+          "size": 427622,
           "originalSize": 30030762,
           "format": "webp",
           "tier": "terrain"
@@ -2531,7 +2531,7 @@
         {
           "name": "terrainLevel1_thumb",
           "path": "progressive/graphics/terrain/terrainLevel1_thumb.webp",
-          "size": 314,
+          "size": 502,
           "originalSize": 1686,
           "format": "webp",
           "tier": "terrain"
@@ -2539,7 +2539,7 @@
         {
           "name": "terrainLevel2",
           "path": "progressive/graphics/terrain/terrainLevel2.webp",
-          "size": 224774,
+          "size": 321820,
           "originalSize": 24354784,
           "format": "webp",
           "tier": "terrain"
@@ -2547,7 +2547,7 @@
         {
           "name": "terrainLevel2_thumb",
           "path": "progressive/graphics/terrain/terrainLevel2_thumb.webp",
-          "size": 844,
+          "size": 1102,
           "originalSize": 4271,
           "format": "webp",
           "tier": "terrain"
@@ -2555,7 +2555,7 @@
         {
           "name": "terrainLevel3",
           "path": "progressive/graphics/terrain/terrainLevel3.webp",
-          "size": 261376,
+          "size": 374314,
           "originalSize": 26455390,
           "format": "webp",
           "tier": "terrain"
@@ -2563,7 +2563,7 @@
         {
           "name": "terrainLevel3_thumb",
           "path": "progressive/graphics/terrain/terrainLevel3_thumb.webp",
-          "size": 1020,
+          "size": 1538,
           "originalSize": 4610,
           "format": "webp",
           "tier": "terrain"
@@ -2571,7 +2571,7 @@
         {
           "name": "terrainLevel4",
           "path": "progressive/graphics/terrain/terrainLevel4.webp",
-          "size": 359022,
+          "size": 511780,
           "originalSize": 34488377,
           "format": "webp",
           "tier": "terrain"
@@ -2579,7 +2579,7 @@
         {
           "name": "terrainLevel4_thumb",
           "path": "progressive/graphics/terrain/terrainLevel4_thumb.webp",
-          "size": 698,
+          "size": 980,
           "originalSize": 3749,
           "format": "webp",
           "tier": "terrain"
@@ -2587,7 +2587,7 @@
         {
           "name": "terrainLevel5",
           "path": "progressive/graphics/terrain/terrainLevel5.webp",
-          "size": 237176,
+          "size": 333608,
           "originalSize": 24458136,
           "format": "webp",
           "tier": "terrain"
@@ -2595,7 +2595,7 @@
         {
           "name": "terrainLevel5_thumb",
           "path": "progressive/graphics/terrain/terrainLevel5_thumb.webp",
-          "size": 1022,
+          "size": 1514,
           "originalSize": 4450,
           "format": "webp",
           "tier": "terrain"
@@ -2879,8 +2879,8 @@
   },
   "totals": {
     "originalSize": 548779009,
-    "compressedSize": 46564337,
-    "savings": "91.5%",
+    "compressedSize": 47470057,
+    "savings": "91.3%",
     "fileCount": 357
   }
 }

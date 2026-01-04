@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
-  "generated": "2026-01-04T05:02:31.712Z",
+  "generated": "2026-01-04T05:32:18.863Z",
   "bundles": {
     "initial": {
-      "totalSize": 5271419,
+      "totalSize": 586720,
       "graphics": [
         {
           "name": "bombDropped",
@@ -342,43 +342,10 @@
           "tier": "initial"
         }
       ],
-      "audio": [
-        {
-          "name": "campaigns/dawn-patrol/boss/track-1.mp3",
-          "path": "initial/audio/campaigns/dawn-patrol/boss/track-1.mp3",
-          "size": 1255918,
-          "originalSize": 4049903,
-          "format": "mp3",
-          "tier": "initial"
-        },
-        {
-          "name": "campaigns/dawn-patrol/level/track-1.mp3",
-          "path": "initial/audio/campaigns/dawn-patrol/level/track-1.mp3",
-          "size": 1258983,
-          "originalSize": 3987539,
-          "format": "mp3",
-          "tier": "initial"
-        },
-        {
-          "name": "campaigns/dawn-patrol/story.mp3",
-          "path": "initial/audio/campaigns/dawn-patrol/story.mp3",
-          "size": 1079685,
-          "originalSize": 3249134,
-          "format": "mp3",
-          "tier": "initial"
-        },
-        {
-          "name": "campaigns/title-page.mp3",
-          "path": "initial/audio/campaigns/title-page.mp3",
-          "size": 1090113,
-          "originalSize": 3448625,
-          "format": "mp3",
-          "tier": "initial"
-        }
-      ]
+      "audio": []
     },
     "progressive": {
-      "totalSize": 42482254,
+      "totalSize": 10978290,
       "tier2": [
         {
           "name": "aaEmplacement",
@@ -2633,286 +2600,13 @@
           "tier": "campaign-terrain"
         }
       ],
-      "audio": [
-        {
-          "name": "campaigns/dawn-patrol/ending.mp3",
-          "path": "progressive/audio/campaigns/dawn-patrol/ending.mp3",
-          "size": 1029708,
-          "originalSize": 2991567,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/dawn-patrol/level/track-2.mp3",
-          "path": "progressive/audio/campaigns/dawn-patrol/level/track-2.mp3",
-          "size": 1338029,
-          "originalSize": 4515222,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/dawn-patrol/level/track-3.mp3",
-          "path": "progressive/audio/campaigns/dawn-patrol/level/track-3.mp3",
-          "size": 1464218,
-          "originalSize": 4987559,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/dawn-patrol/level/track-4.mp3",
-          "path": "progressive/audio/campaigns/dawn-patrol/level/track-4.mp3",
-          "size": 1219093,
-          "originalSize": 4108999,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/dawn-patrol/level/track-5.mp3",
-          "path": "progressive/audio/campaigns/dawn-patrol/level/track-5.mp3",
-          "size": 1134722,
-          "originalSize": 3636419,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/hellfire-horizon/boss/track-1.mp3",
-          "path": "progressive/audio/campaigns/hellfire-horizon/boss/track-1.mp3",
-          "size": 749033,
-          "originalSize": 1741096,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/hellfire-horizon/ending.mp3",
-          "path": "progressive/audio/campaigns/hellfire-horizon/ending.mp3",
-          "size": 1063150,
-          "originalSize": 3432238,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/hellfire-horizon/level/track-1.mp3",
-          "path": "progressive/audio/campaigns/hellfire-horizon/level/track-1.mp3",
-          "size": 1039243,
-          "originalSize": 3467279,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/hellfire-horizon/level/track-2.mp3",
-          "path": "progressive/audio/campaigns/hellfire-horizon/level/track-2.mp3",
-          "size": 890012,
-          "originalSize": 2965335,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/hellfire-horizon/level/track-3.mp3",
-          "path": "progressive/audio/campaigns/hellfire-horizon/level/track-3.mp3",
-          "size": 1206444,
-          "originalSize": 4279798,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/hellfire-horizon/level/track-4.mp3",
-          "path": "progressive/audio/campaigns/hellfire-horizon/level/track-4.mp3",
-          "size": 877456,
-          "originalSize": 2973823,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/hellfire-horizon/level/track-5.mp3",
-          "path": "progressive/audio/campaigns/hellfire-horizon/level/track-5.mp3",
-          "size": 921772,
-          "originalSize": 2740476,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/hellfire-horizon/level/track-6.mp3",
-          "path": "progressive/audio/campaigns/hellfire-horizon/level/track-6.mp3",
-          "size": 1035305,
-          "originalSize": 3205556,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/hellfire-horizon/level/track-7.mp3",
-          "path": "progressive/audio/campaigns/hellfire-horizon/level/track-7.mp3",
-          "size": 1112262,
-          "originalSize": 3450455,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/hellfire-horizon/story.mp3",
-          "path": "progressive/audio/campaigns/hellfire-horizon/story.mp3",
-          "size": 821032,
-          "originalSize": 2363445,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/steel-vanguard/boss/track-1.mp3",
-          "path": "progressive/audio/campaigns/steel-vanguard/boss/track-1.mp3",
-          "size": 1282522,
-          "originalSize": 4130247,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/steel-vanguard/ending.mp3",
-          "path": "progressive/audio/campaigns/steel-vanguard/ending.mp3",
-          "size": 1040038,
-          "originalSize": 3403470,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/steel-vanguard/level/track-1.mp3",
-          "path": "progressive/audio/campaigns/steel-vanguard/level/track-1.mp3",
-          "size": 1167521,
-          "originalSize": 3526653,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/steel-vanguard/level/track-2.mp3",
-          "path": "progressive/audio/campaigns/steel-vanguard/level/track-2.mp3",
-          "size": 1232313,
-          "originalSize": 4358428,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/steel-vanguard/level/track-3.mp3",
-          "path": "progressive/audio/campaigns/steel-vanguard/level/track-3.mp3",
-          "size": 1133561,
-          "originalSize": 3640585,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/steel-vanguard/level/track-4.mp3",
-          "path": "progressive/audio/campaigns/steel-vanguard/level/track-4.mp3",
-          "size": 1370962,
-          "originalSize": 4259468,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/steel-vanguard/level/track-5.mp3",
-          "path": "progressive/audio/campaigns/steel-vanguard/level/track-5.mp3",
-          "size": 1364953,
-          "originalSize": 4945418,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/steel-vanguard/level/track-6.mp3",
-          "path": "progressive/audio/campaigns/steel-vanguard/level/track-6.mp3",
-          "size": 1275838,
-          "originalSize": 4207143,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "campaigns/steel-vanguard/story.mp3",
-          "path": "progressive/audio/campaigns/steel-vanguard/story.mp3",
-          "size": 959519,
-          "originalSize": 2902122,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "legacy/bossmusic-track1.mp3",
-          "path": "progressive/audio/legacy/bossmusic-track1.mp3",
-          "size": 212207,
-          "originalSize": 550869,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "legacy/bossmusic-track2.mp3",
-          "path": "progressive/audio/legacy/bossmusic-track2.mp3",
-          "size": 212207,
-          "originalSize": 550869,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "legacy/bossmusic-track3.mp3",
-          "path": "progressive/audio/legacy/bossmusic-track3.mp3",
-          "size": 212207,
-          "originalSize": 550869,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "legacy/bossmusic-track4.mp3",
-          "path": "progressive/audio/legacy/bossmusic-track4.mp3",
-          "size": 212207,
-          "originalSize": 550869,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "legacy/bossmusic-track5.mp3",
-          "path": "progressive/audio/legacy/bossmusic-track5.mp3",
-          "size": 212207,
-          "originalSize": 550869,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "legacy/levelmusic-track1.mp3",
-          "path": "progressive/audio/legacy/levelmusic-track1.mp3",
-          "size": 693173,
-          "originalSize": 2201057,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "legacy/levelmusic-track2.mp3",
-          "path": "progressive/audio/legacy/levelmusic-track2.mp3",
-          "size": 941531,
-          "originalSize": 2840108,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "legacy/levelmusic-track3.mp3",
-          "path": "progressive/audio/legacy/levelmusic-track3.mp3",
-          "size": 693173,
-          "originalSize": 2201057,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "legacy/levelmusic-track4.mp3",
-          "path": "progressive/audio/legacy/levelmusic-track4.mp3",
-          "size": 693173,
-          "originalSize": 2201057,
-          "format": "mp3",
-          "tier": "progressive"
-        },
-        {
-          "name": "legacy/levelmusic-track5.mp3",
-          "path": "progressive/audio/legacy/levelmusic-track5.mp3",
-          "size": 693173,
-          "originalSize": 2201057,
-          "format": "mp3",
-          "tier": "progressive"
-        }
-      ]
+      "audio": []
     }
   },
   "totals": {
-    "originalSize": 464147633,
-    "compressedSize": 47753673,
-    "savings": "89.7%",
-    "fileCount": 361
+    "originalSize": 348780950,
+    "compressedSize": 11565010,
+    "savings": "96.7%",
+    "fileCount": 323
   }
 }

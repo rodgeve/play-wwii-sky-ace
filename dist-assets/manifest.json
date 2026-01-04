@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated": "2025-12-27T17:36:38.622Z",
+  "generated": "2026-01-04T01:44:34.461Z",
   "bundles": {
     "initial": {
       "totalSize": 5251225,
@@ -346,7 +346,7 @@
       ]
     },
     "progressive": {
-      "totalSize": 42218832,
+      "totalSize": 41118518,
       "tier2": [
         {
           "name": "aaEmplacement",
@@ -693,26 +693,10 @@
           "tier": "tier2"
         },
         {
-          "name": "dawnPatrolVictory1",
-          "path": "progressive/graphics/tier-2/dawnPatrolVictory1.webp",
-          "size": 92858,
-          "originalSize": 2922249,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
           "name": "dawnPatrolVictory1_thumb",
           "path": "progressive/graphics/tier-2/dawnPatrolVictory1_thumb.webp",
           "size": 354,
           "originalSize": 1795,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "dawnPatrolVictory2",
-          "path": "progressive/graphics/tier-2/dawnPatrolVictory2.webp",
-          "size": 79332,
-          "originalSize": 4969901,
           "format": "webp",
           "tier": "tier2"
         },
@@ -805,58 +789,10 @@
           "tier": "tier2"
         },
         {
-          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766374423629_pmsn",
-          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766374423629_pmsn.webp",
-          "size": 23098,
-          "originalSize": 1874597,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766374455645_3gn4",
-          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766374455645_3gn4.webp",
-          "size": 26900,
-          "originalSize": 2017066,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766374727444_ydqo",
-          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766374727444_ydqo.webp",
-          "size": 24132,
-          "originalSize": 1882895,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452468842_kfb7",
-          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452468842_kfb7.webp",
-          "size": 41560,
-          "originalSize": 2128859,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
           "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452500126_46uh",
           "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452500126_46uh.webp",
           "size": 60680,
           "originalSize": 2388029,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452645303_c1cs",
-          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452645303_c1cs.webp",
-          "size": 53746,
-          "originalSize": 2258392,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452713738_5ado",
-          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452713738_5ado.webp",
-          "size": 55578,
-          "originalSize": 2214092,
           "format": "webp",
           "tier": "tier2"
         },
@@ -877,34 +813,10 @@
           "tier": "tier2"
         },
         {
-          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452961630_r9ne",
-          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766452961630_r9ne.webp",
-          "size": 33842,
-          "originalSize": 2000306,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
           "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766453243291_3xxi",
           "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_3_1766453243291_3xxi.webp",
           "size": 48436,
           "originalSize": 2276247,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_4_1766533214663_3ns2",
-          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_4_1766533214663_3ns2.webp",
-          "size": 19288,
-          "originalSize": 1852060,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_4_1766533256029_u88o",
-          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_4_1766533256029_u88o.webp",
-          "size": 21174,
-          "originalSize": 1935219,
           "format": "webp",
           "tier": "tier2"
         },
@@ -921,30 +833,6 @@
           "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_4_1766533527580_m3l7.webp",
           "size": 20586,
           "originalSize": 1820739,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766508237583_174h",
-          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766508237583_174h.webp",
-          "size": 27188,
-          "originalSize": 1622669,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766508304125_1llf",
-          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766508304125_1llf.webp",
-          "size": 56542,
-          "originalSize": 2255002,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766508572038_xmkd",
-          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_DAWN_PATROL_5_1766508572038_xmkd.webp",
-          "size": 38252,
-          "originalSize": 2216110,
           "format": "webp",
           "tier": "tier2"
         },
@@ -1097,14 +985,6 @@
           "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_5_1766630554201_nuza.webp",
           "size": 39596,
           "originalSize": 2179411,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_5_1766630615812_725s",
-          "path": "progressive/graphics/tier-2/destroyed-overlays/destroyed_overlay_STEEL_VANGUARD_5_1766630615812_725s.webp",
-          "size": 21854,
-          "originalSize": 1737550,
           "format": "webp",
           "tier": "tier2"
         },
@@ -2050,14 +1930,6 @@
           "name": "dawnPatrolStory1",
           "path": "progressive/graphics/tier-3/dawnPatrolStory1.webp",
           "size": 108222,
-          "originalSize": 952181,
-          "format": "webp",
-          "tier": "tier3"
-        },
-        {
-          "name": "dawnPatrolStory1",
-          "path": "progressive/graphics/tier-3/dawnPatrolStory1.webp",
-          "size": 108222,
           "originalSize": 1955007,
           "format": "webp",
           "tier": "tier3"
@@ -2071,26 +1943,10 @@
           "tier": "tier3"
         },
         {
-          "name": "dawnPatrolStory2",
-          "path": "progressive/graphics/tier-3/dawnPatrolStory2.webp",
-          "size": 80334,
-          "originalSize": 896350,
-          "format": "webp",
-          "tier": "tier3"
-        },
-        {
           "name": "dawnPatrolStory2_thumb",
           "path": "progressive/graphics/tier-3/dawnPatrolStory2_thumb.webp",
           "size": 364,
           "originalSize": 1486,
-          "format": "webp",
-          "tier": "tier3"
-        },
-        {
-          "name": "dawnPatrolStory3",
-          "path": "progressive/graphics/tier-3/dawnPatrolStory3.webp",
-          "size": 83900,
-          "originalSize": 1133280,
           "format": "webp",
           "tier": "tier3"
         },
@@ -2103,26 +1959,10 @@
           "tier": "tier3"
         },
         {
-          "name": "dawnPatrolStory4",
-          "path": "progressive/graphics/tier-3/dawnPatrolStory4.webp",
-          "size": 77402,
-          "originalSize": 1350712,
-          "format": "webp",
-          "tier": "tier3"
-        },
-        {
           "name": "dawnPatrolStory4_thumb",
           "path": "progressive/graphics/tier-3/dawnPatrolStory4_thumb.webp",
           "size": 354,
           "originalSize": 1285,
-          "format": "webp",
-          "tier": "tier3"
-        },
-        {
-          "name": "dawnPatrolStory5",
-          "path": "progressive/graphics/tier-3/dawnPatrolStory5.webp",
-          "size": 135112,
-          "originalSize": 1912683,
           "format": "webp",
           "tier": "tier3"
         },
@@ -2878,9 +2718,9 @@
     }
   },
   "totals": {
-    "originalSize": 548779009,
-    "compressedSize": 47470057,
-    "savings": "91.3%",
-    "fileCount": 357
+    "originalSize": 508646836,
+    "compressedSize": 46369743,
+    "savings": "90.9%",
+    "fileCount": 337
   }
 }

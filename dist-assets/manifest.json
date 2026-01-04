@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
-  "generated": "2026-01-04T02:50:15.931Z",
+  "generated": "2026-01-04T02:52:53.332Z",
   "bundles": {
     "initial": {
-      "totalSize": 5251225,
+      "totalSize": 5271419,
       "graphics": [
         {
           "name": "bombDropped",
@@ -182,6 +182,22 @@
           "tier": "initial"
         },
         {
+          "name": "fogPatch",
+          "path": "initial/graphics/fogPatch.webp",
+          "size": 5326,
+          "originalSize": 747368,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "fogPatch_thumb",
+          "path": "initial/graphics/fogPatch_thumb.webp",
+          "size": 168,
+          "originalSize": 410,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
           "name": "helicopter1",
           "path": "initial/graphics/helicopter1.webp",
           "size": 24940,
@@ -294,6 +310,22 @@
           "tier": "initial"
         },
         {
+          "name": "sandParticle",
+          "path": "initial/graphics/sandParticle.webp",
+          "size": 14486,
+          "originalSize": 864362,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "sandParticle_thumb",
+          "path": "initial/graphics/sandParticle_thumb.webp",
+          "size": 214,
+          "originalSize": 469,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
           "name": "titleScreen",
           "path": "initial/graphics/titleScreen.webp",
           "size": 68692,
@@ -346,7 +378,7 @@
       ]
     },
     "progressive": {
-      "totalSize": 41118518,
+      "totalSize": 41098324,
       "tier2": [
         {
           "name": "aaEmplacement",
@@ -1125,22 +1157,6 @@
           "tier": "tier2"
         },
         {
-          "name": "fogPatch",
-          "path": "progressive/graphics/tier-2/fogPatch.webp",
-          "size": 5326,
-          "originalSize": 747368,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "fogPatch_thumb",
-          "path": "progressive/graphics/tier-2/fogPatch_thumb.webp",
-          "size": 168,
-          "originalSize": 410,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
           "name": "fortress1",
           "path": "progressive/graphics/tier-2/fortress1.webp",
           "size": 110312,
@@ -1457,22 +1473,6 @@
           "path": "progressive/graphics/tier-2/radarStation_thumb.webp",
           "size": 272,
           "originalSize": 498,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "sandParticle",
-          "path": "progressive/graphics/tier-2/sandParticle.webp",
-          "size": 14486,
-          "originalSize": 864362,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "sandParticle_thumb",
-          "path": "progressive/graphics/tier-2/sandParticle_thumb.webp",
-          "size": 214,
-          "originalSize": 469,
           "format": "webp",
           "tier": "tier2"
         },

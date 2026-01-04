@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated": "2026-01-04T04:02:46.610Z",
+  "generated": "2026-01-04T05:02:31.712Z",
   "bundles": {
     "initial": {
       "totalSize": 5271419,
@@ -214,22 +214,6 @@
           "tier": "initial"
         },
         {
-          "name": "ocean1",
-          "path": "initial/graphics/ocean1.webp",
-          "size": 42008,
-          "originalSize": 1339449,
-          "format": "webp",
-          "tier": "initial"
-        },
-        {
-          "name": "ocean1_thumb",
-          "path": "initial/graphics/ocean1_thumb.webp",
-          "size": 206,
-          "originalSize": 402,
-          "format": "webp",
-          "tier": "initial"
-        },
-        {
           "name": "player",
           "path": "initial/graphics/player.webp",
           "size": 29910,
@@ -340,6 +324,22 @@
           "originalSize": 1188,
           "format": "webp",
           "tier": "initial"
+        },
+        {
+          "name": "ocean1",
+          "path": "initial/graphics/ocean1.webp",
+          "size": 42008,
+          "originalSize": 42008,
+          "format": "webp",
+          "tier": "initial"
+        },
+        {
+          "name": "ocean1_thumb",
+          "path": "initial/graphics/ocean1_thumb.webp",
+          "size": 206,
+          "originalSize": 206,
+          "format": "webp",
+          "tier": "initial"
         }
       ],
       "audio": [
@@ -393,38 +393,6 @@
           "path": "progressive/graphics/tier-2/aaEmplacement_thumb.webp",
           "size": 258,
           "originalSize": 612,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "aircraftCarrier",
-          "path": "progressive/graphics/tier-2/aircraftCarrier.webp",
-          "size": 38918,
-          "originalSize": 1340969,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "aircraftCarrier_thumb",
-          "path": "progressive/graphics/tier-2/aircraftCarrier_thumb.webp",
-          "size": 180,
-          "originalSize": 727,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "airfield",
-          "path": "progressive/graphics/tier-2/airfield.webp",
-          "size": 27672,
-          "originalSize": 1308673,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "airfield_thumb",
-          "path": "progressive/graphics/tier-2/airfield_thumb.webp",
-          "size": 252,
-          "originalSize": 558,
           "format": "webp",
           "tier": "tier2"
         },
@@ -681,46 +649,6 @@
           "path": "progressive/graphics/tier-2/bossStormCarrier_thumb.webp",
           "size": 316,
           "originalSize": 480,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "dawnPatrolStory_1.withText",
-          "path": "progressive/graphics/tier-2/dawnPatrolStory_1.withText.webp",
-          "size": 122586,
-          "originalSize": 2099591,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "dawnPatrolStory_2.withText",
-          "path": "progressive/graphics/tier-2/dawnPatrolStory_2.withText.webp",
-          "size": 77504,
-          "originalSize": 1773070,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "dawnPatrolStory_3.withText",
-          "path": "progressive/graphics/tier-2/dawnPatrolStory_3.withText.webp",
-          "size": 80896,
-          "originalSize": 1564237,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "dawnPatrolStory_4.withText",
-          "path": "progressive/graphics/tier-2/dawnPatrolStory_4.withText.webp",
-          "size": 78288,
-          "originalSize": 1652623,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "dawnPatrolStory_5.withText",
-          "path": "progressive/graphics/tier-2/dawnPatrolStory_5.withText.webp",
-          "size": 137418,
-          "originalSize": 2150279,
           "format": "webp",
           "tier": "tier2"
         },
@@ -1157,86 +1085,6 @@
           "tier": "tier2"
         },
         {
-          "name": "fortress1",
-          "path": "progressive/graphics/tier-2/fortress1.webp",
-          "size": 110312,
-          "originalSize": 1861241,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "fortress1_thumb",
-          "path": "progressive/graphics/tier-2/fortress1_thumb.webp",
-          "size": 296,
-          "originalSize": 682,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "fuelDepot",
-          "path": "progressive/graphics/tier-2/fuelDepot.webp",
-          "size": 85764,
-          "originalSize": 1791617,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "fuelDepot_thumb",
-          "path": "progressive/graphics/tier-2/fuelDepot_thumb.webp",
-          "size": 302,
-          "originalSize": 815,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "groundCoastal",
-          "path": "progressive/graphics/tier-2/groundCoastal.webp",
-          "size": 19536,
-          "originalSize": 1057762,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "groundCoastal_thumb",
-          "path": "progressive/graphics/tier-2/groundCoastal_thumb.webp",
-          "size": 206,
-          "originalSize": 662,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "groundJungle",
-          "path": "progressive/graphics/tier-2/groundJungle.webp",
-          "size": 106454,
-          "originalSize": 1933206,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "groundJungle_thumb",
-          "path": "progressive/graphics/tier-2/groundJungle_thumb.webp",
-          "size": 194,
-          "originalSize": 592,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "groundUrban",
-          "path": "progressive/graphics/tier-2/groundUrban.webp",
-          "size": 136774,
-          "originalSize": 2025855,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "groundUrban_thumb",
-          "path": "progressive/graphics/tier-2/groundUrban_thumb.webp",
-          "size": 200,
-          "originalSize": 722,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
           "name": "helicopter2",
           "path": "progressive/graphics/tier-2/helicopter2.webp",
           "size": 35926,
@@ -1281,54 +1129,6 @@
           "path": "progressive/graphics/tier-2/hellfireVictory2_thumb.webp",
           "size": 266,
           "originalSize": 938,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "island1",
-          "path": "progressive/graphics/tier-2/island1.webp",
-          "size": 64196,
-          "originalSize": 1494957,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "island1_thumb",
-          "path": "progressive/graphics/tier-2/island1_thumb.webp",
-          "size": 240,
-          "originalSize": 610,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "island2",
-          "path": "progressive/graphics/tier-2/island2.webp",
-          "size": 50124,
-          "originalSize": 1446156,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "island2_thumb",
-          "path": "progressive/graphics/tier-2/island2_thumb.webp",
-          "size": 214,
-          "originalSize": 602,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "island3",
-          "path": "progressive/graphics/tier-2/island3.webp",
-          "size": 53626,
-          "originalSize": 1521327,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "island3_thumb",
-          "path": "progressive/graphics/tier-2/island3_thumb.webp",
-          "size": 266,
-          "originalSize": 746,
           "format": "webp",
           "tier": "tier2"
         },
@@ -1381,70 +1181,6 @@
           "tier": "tier2"
         },
         {
-          "name": "ocean2",
-          "path": "progressive/graphics/tier-2/ocean2.webp",
-          "size": 62606,
-          "originalSize": 1329475,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "ocean2_thumb",
-          "path": "progressive/graphics/tier-2/ocean2_thumb.webp",
-          "size": 118,
-          "originalSize": 242,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "ocean3",
-          "path": "progressive/graphics/tier-2/ocean3.webp",
-          "size": 20304,
-          "originalSize": 1030008,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "ocean3_thumb",
-          "path": "progressive/graphics/tier-2/ocean3_thumb.webp",
-          "size": 76,
-          "originalSize": 207,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "ocean4",
-          "path": "progressive/graphics/tier-2/ocean4.webp",
-          "size": 51096,
-          "originalSize": 1321046,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "ocean4_thumb",
-          "path": "progressive/graphics/tier-2/ocean4_thumb.webp",
-          "size": 274,
-          "originalSize": 275,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "ocean5",
-          "path": "progressive/graphics/tier-2/ocean5.webp",
-          "size": 30404,
-          "originalSize": 1228782,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "ocean5_thumb",
-          "path": "progressive/graphics/tier-2/ocean5_thumb.webp",
-          "size": 88,
-          "originalSize": 231,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
           "name": "ptBoat",
           "path": "progressive/graphics/tier-2/ptBoat.webp",
           "size": 15932,
@@ -1457,22 +1193,6 @@
           "path": "progressive/graphics/tier-2/ptBoat_thumb.webp",
           "size": 220,
           "originalSize": 482,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "radarStation",
-          "path": "progressive/graphics/tier-2/radarStation.webp",
-          "size": 46178,
-          "originalSize": 1372053,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "radarStation_thumb",
-          "path": "progressive/graphics/tier-2/radarStation_thumb.webp",
-          "size": 272,
-          "originalSize": 498,
           "format": "webp",
           "tier": "tier2"
         },
@@ -1521,22 +1241,6 @@
           "path": "progressive/graphics/tier-2/submarine_thumb.webp",
           "size": 172,
           "originalSize": 322,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "supplyConvoy",
-          "path": "progressive/graphics/tier-2/supplyConvoy.webp",
-          "size": 12404,
-          "originalSize": 960950,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "supplyConvoy_thumb",
-          "path": "progressive/graphics/tier-2/supplyConvoy_thumb.webp",
-          "size": 152,
-          "originalSize": 231,
           "format": "webp",
           "tier": "tier2"
         },
@@ -1601,134 +1305,6 @@
           "path": "progressive/graphics/tier-2/tank3_thumb.webp",
           "size": 194,
           "originalSize": 492,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "tilesetBeach",
-          "path": "progressive/graphics/tier-2/tilesetBeach.webp",
-          "size": 53332,
-          "originalSize": 1503081,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "tilesetBeach_thumb",
-          "path": "progressive/graphics/tier-2/tilesetBeach_thumb.webp",
-          "size": 234,
-          "originalSize": 515,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "tilesetConcrete",
-          "path": "progressive/graphics/tier-2/tilesetConcrete.webp",
-          "size": 46304,
-          "originalSize": 1656640,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "tilesetConcrete_thumb",
-          "path": "progressive/graphics/tier-2/tilesetConcrete_thumb.webp",
-          "size": 166,
-          "originalSize": 473,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "tilesetGrass",
-          "path": "progressive/graphics/tier-2/tilesetGrass.webp",
-          "size": 46248,
-          "originalSize": 1302850,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "tilesetGrass_thumb",
-          "path": "progressive/graphics/tier-2/tilesetGrass_thumb.webp",
-          "size": 240,
-          "originalSize": 630,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "tilesetJungle",
-          "path": "progressive/graphics/tier-2/tilesetJungle.webp",
-          "size": 129696,
-          "originalSize": 2085885,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "tilesetJungle_thumb",
-          "path": "progressive/graphics/tier-2/tilesetJungle_thumb.webp",
-          "size": 330,
-          "originalSize": 1028,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "tilesetOcean",
-          "path": "progressive/graphics/tier-2/tilesetOcean.webp",
-          "size": 27104,
-          "originalSize": 1178802,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "tilesetOcean_thumb",
-          "path": "progressive/graphics/tier-2/tilesetOcean_thumb.webp",
-          "size": 180,
-          "originalSize": 710,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "tilesetStructures",
-          "path": "progressive/graphics/tier-2/tilesetStructures.webp",
-          "size": 30966,
-          "originalSize": 1163162,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "tilesetStructures_thumb",
-          "path": "progressive/graphics/tier-2/tilesetStructures_thumb.webp",
-          "size": 326,
-          "originalSize": 508,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "tilesetTransitions",
-          "path": "progressive/graphics/tier-2/tilesetTransitions.webp",
-          "size": 53608,
-          "originalSize": 1584703,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "tilesetTransitions_thumb",
-          "path": "progressive/graphics/tier-2/tilesetTransitions_thumb.webp",
-          "size": 376,
-          "originalSize": 902,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "tilesetVehicles",
-          "path": "progressive/graphics/tier-2/tilesetVehicles.webp",
-          "size": 25332,
-          "originalSize": 1117086,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "tilesetVehicles_thumb",
-          "path": "progressive/graphics/tier-2/tilesetVehicles_thumb.webp",
-          "size": 244,
-          "originalSize": 427,
           "format": "webp",
           "tier": "tier2"
         },
@@ -1829,34 +1405,74 @@
           "tier": "tier2"
         },
         {
-          "name": "village1",
-          "path": "progressive/graphics/tier-2/village1.webp",
-          "size": 44138,
-          "originalSize": 1338276,
+          "name": "aircraftCarrier",
+          "path": "progressive/graphics/tier-2/aircraftCarrier.webp",
+          "size": 38918,
+          "originalSize": 38918,
           "format": "webp",
           "tier": "tier2"
         },
         {
-          "name": "village1_thumb",
-          "path": "progressive/graphics/tier-2/village1_thumb.webp",
-          "size": 240,
-          "originalSize": 784,
+          "name": "aircraftCarrier_thumb",
+          "path": "progressive/graphics/tier-2/aircraftCarrier_thumb.webp",
+          "size": 180,
+          "originalSize": 180,
           "format": "webp",
           "tier": "tier2"
         },
         {
-          "name": "village2",
-          "path": "progressive/graphics/tier-2/village2.webp",
-          "size": 36740,
-          "originalSize": 1288467,
+          "name": "airfield",
+          "path": "progressive/graphics/tier-2/airfield.webp",
+          "size": 27672,
+          "originalSize": 27672,
           "format": "webp",
           "tier": "tier2"
         },
         {
-          "name": "village2_thumb",
-          "path": "progressive/graphics/tier-2/village2_thumb.webp",
-          "size": 216,
-          "originalSize": 700,
+          "name": "airfield_thumb",
+          "path": "progressive/graphics/tier-2/airfield_thumb.webp",
+          "size": 252,
+          "originalSize": 252,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolStory_1.withText",
+          "path": "progressive/graphics/tier-2/dawnPatrolStory_1.withText.webp",
+          "size": 122586,
+          "originalSize": 122586,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolStory_2.withText",
+          "path": "progressive/graphics/tier-2/dawnPatrolStory_2.withText.webp",
+          "size": 77504,
+          "originalSize": 77504,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolStory_3.withText",
+          "path": "progressive/graphics/tier-2/dawnPatrolStory_3.withText.webp",
+          "size": 80896,
+          "originalSize": 80896,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolStory_4.withText",
+          "path": "progressive/graphics/tier-2/dawnPatrolStory_4.withText.webp",
+          "size": 78288,
+          "originalSize": 78288,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolStory_5.withText",
+          "path": "progressive/graphics/tier-2/dawnPatrolStory_5.withText.webp",
+          "size": 137418,
+          "originalSize": 137418,
           "format": "webp",
           "tier": "tier2"
         },
@@ -1873,6 +1489,390 @@
           "path": "progressive/graphics/tier-2/dawnPatrolVictory2.webp",
           "size": 79332,
           "originalSize": 79332,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "fortress1",
+          "path": "progressive/graphics/tier-2/fortress1.webp",
+          "size": 110312,
+          "originalSize": 110312,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "fortress1_thumb",
+          "path": "progressive/graphics/tier-2/fortress1_thumb.webp",
+          "size": 296,
+          "originalSize": 296,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "fuelDepot",
+          "path": "progressive/graphics/tier-2/fuelDepot.webp",
+          "size": 85764,
+          "originalSize": 85764,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "fuelDepot_thumb",
+          "path": "progressive/graphics/tier-2/fuelDepot_thumb.webp",
+          "size": 302,
+          "originalSize": 302,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "groundCoastal",
+          "path": "progressive/graphics/tier-2/groundCoastal.webp",
+          "size": 19536,
+          "originalSize": 19536,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "groundCoastal_thumb",
+          "path": "progressive/graphics/tier-2/groundCoastal_thumb.webp",
+          "size": 206,
+          "originalSize": 206,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "groundJungle",
+          "path": "progressive/graphics/tier-2/groundJungle.webp",
+          "size": 106454,
+          "originalSize": 106454,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "groundJungle_thumb",
+          "path": "progressive/graphics/tier-2/groundJungle_thumb.webp",
+          "size": 194,
+          "originalSize": 194,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "groundUrban",
+          "path": "progressive/graphics/tier-2/groundUrban.webp",
+          "size": 136774,
+          "originalSize": 136774,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "groundUrban_thumb",
+          "path": "progressive/graphics/tier-2/groundUrban_thumb.webp",
+          "size": 200,
+          "originalSize": 200,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "island1",
+          "path": "progressive/graphics/tier-2/island1.webp",
+          "size": 64196,
+          "originalSize": 64196,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "island1_thumb",
+          "path": "progressive/graphics/tier-2/island1_thumb.webp",
+          "size": 240,
+          "originalSize": 240,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "island2",
+          "path": "progressive/graphics/tier-2/island2.webp",
+          "size": 50124,
+          "originalSize": 50124,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "island2_thumb",
+          "path": "progressive/graphics/tier-2/island2_thumb.webp",
+          "size": 214,
+          "originalSize": 214,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "island3",
+          "path": "progressive/graphics/tier-2/island3.webp",
+          "size": 53626,
+          "originalSize": 53626,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "island3_thumb",
+          "path": "progressive/graphics/tier-2/island3_thumb.webp",
+          "size": 266,
+          "originalSize": 266,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ocean2",
+          "path": "progressive/graphics/tier-2/ocean2.webp",
+          "size": 62606,
+          "originalSize": 62606,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ocean2_thumb",
+          "path": "progressive/graphics/tier-2/ocean2_thumb.webp",
+          "size": 118,
+          "originalSize": 118,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ocean3",
+          "path": "progressive/graphics/tier-2/ocean3.webp",
+          "size": 20304,
+          "originalSize": 20304,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ocean3_thumb",
+          "path": "progressive/graphics/tier-2/ocean3_thumb.webp",
+          "size": 76,
+          "originalSize": 76,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ocean4",
+          "path": "progressive/graphics/tier-2/ocean4.webp",
+          "size": 51096,
+          "originalSize": 51096,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ocean4_thumb",
+          "path": "progressive/graphics/tier-2/ocean4_thumb.webp",
+          "size": 274,
+          "originalSize": 274,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ocean5",
+          "path": "progressive/graphics/tier-2/ocean5.webp",
+          "size": 30404,
+          "originalSize": 30404,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "ocean5_thumb",
+          "path": "progressive/graphics/tier-2/ocean5_thumb.webp",
+          "size": 88,
+          "originalSize": 88,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "radarStation",
+          "path": "progressive/graphics/tier-2/radarStation.webp",
+          "size": 46178,
+          "originalSize": 46178,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "radarStation_thumb",
+          "path": "progressive/graphics/tier-2/radarStation_thumb.webp",
+          "size": 272,
+          "originalSize": 272,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "supplyConvoy",
+          "path": "progressive/graphics/tier-2/supplyConvoy.webp",
+          "size": 12404,
+          "originalSize": 12404,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "supplyConvoy_thumb",
+          "path": "progressive/graphics/tier-2/supplyConvoy_thumb.webp",
+          "size": 152,
+          "originalSize": 152,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetBeach",
+          "path": "progressive/graphics/tier-2/tilesetBeach.webp",
+          "size": 53332,
+          "originalSize": 53332,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetBeach_thumb",
+          "path": "progressive/graphics/tier-2/tilesetBeach_thumb.webp",
+          "size": 234,
+          "originalSize": 234,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetConcrete",
+          "path": "progressive/graphics/tier-2/tilesetConcrete.webp",
+          "size": 46304,
+          "originalSize": 46304,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetConcrete_thumb",
+          "path": "progressive/graphics/tier-2/tilesetConcrete_thumb.webp",
+          "size": 166,
+          "originalSize": 166,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetGrass",
+          "path": "progressive/graphics/tier-2/tilesetGrass.webp",
+          "size": 46248,
+          "originalSize": 46248,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetGrass_thumb",
+          "path": "progressive/graphics/tier-2/tilesetGrass_thumb.webp",
+          "size": 240,
+          "originalSize": 240,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetJungle",
+          "path": "progressive/graphics/tier-2/tilesetJungle.webp",
+          "size": 129696,
+          "originalSize": 129696,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetJungle_thumb",
+          "path": "progressive/graphics/tier-2/tilesetJungle_thumb.webp",
+          "size": 330,
+          "originalSize": 330,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetOcean",
+          "path": "progressive/graphics/tier-2/tilesetOcean.webp",
+          "size": 27104,
+          "originalSize": 27104,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetOcean_thumb",
+          "path": "progressive/graphics/tier-2/tilesetOcean_thumb.webp",
+          "size": 180,
+          "originalSize": 180,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetStructures",
+          "path": "progressive/graphics/tier-2/tilesetStructures.webp",
+          "size": 30966,
+          "originalSize": 30966,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetStructures_thumb",
+          "path": "progressive/graphics/tier-2/tilesetStructures_thumb.webp",
+          "size": 326,
+          "originalSize": 326,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetTransitions",
+          "path": "progressive/graphics/tier-2/tilesetTransitions.webp",
+          "size": 53608,
+          "originalSize": 53608,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetTransitions_thumb",
+          "path": "progressive/graphics/tier-2/tilesetTransitions_thumb.webp",
+          "size": 376,
+          "originalSize": 376,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetVehicles",
+          "path": "progressive/graphics/tier-2/tilesetVehicles.webp",
+          "size": 25332,
+          "originalSize": 25332,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "tilesetVehicles_thumb",
+          "path": "progressive/graphics/tier-2/tilesetVehicles_thumb.webp",
+          "size": 244,
+          "originalSize": 244,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "village1",
+          "path": "progressive/graphics/tier-2/village1.webp",
+          "size": 44138,
+          "originalSize": 44138,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "village1_thumb",
+          "path": "progressive/graphics/tier-2/village1_thumb.webp",
+          "size": 240,
+          "originalSize": 240,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "village2",
+          "path": "progressive/graphics/tier-2/village2.webp",
+          "size": 36740,
+          "originalSize": 36740,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "village2_thumb",
+          "path": "progressive/graphics/tier-2/village2_thumb.webp",
+          "size": 216,
+          "originalSize": 216,
           "format": "webp",
           "tier": "tier2"
         }
@@ -2910,9 +2910,9 @@
     }
   },
   "totals": {
-    "originalSize": 510030766,
+    "originalSize": 464147633,
     "compressedSize": 47753673,
-    "savings": "90.6%",
+    "savings": "89.7%",
     "fileCount": 361
   }
 }

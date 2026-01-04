@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated": "2026-01-04T02:52:53.332Z",
+  "generated": "2026-01-04T03:52:23.940Z",
   "bundles": {
     "initial": {
       "totalSize": 5271419,
@@ -378,7 +378,7 @@
       ]
     },
     "progressive": {
-      "totalSize": 41098324,
+      "totalSize": 42482254,
       "tier2": [
         {
           "name": "aaEmplacement",
@@ -1859,6 +1859,22 @@
           "originalSize": 700,
           "format": "webp",
           "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolVictory1",
+          "path": "progressive/graphics/tier-2/dawnPatrolVictory1.webp",
+          "size": 92858,
+          "originalSize": 92858,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "dawnPatrolVictory2",
+          "path": "progressive/graphics/tier-2/dawnPatrolVictory2.webp",
+          "size": 79332,
+          "originalSize": 79332,
+          "format": "webp",
+          "tier": "tier2"
         }
       ],
       "tier3": [
@@ -2213,6 +2229,38 @@
           "originalSize": 1533,
           "format": "webp",
           "tier": "tier3"
+        },
+        {
+          "name": "dawnPatrolStory2",
+          "path": "progressive/graphics/tier-3/dawnPatrolStory2.webp",
+          "size": 80334,
+          "originalSize": 80334,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "dawnPatrolStory3",
+          "path": "progressive/graphics/tier-3/dawnPatrolStory3.webp",
+          "size": 83900,
+          "originalSize": 83900,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "dawnPatrolStory4",
+          "path": "progressive/graphics/tier-3/dawnPatrolStory4.webp",
+          "size": 77402,
+          "originalSize": 77402,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "dawnPatrolStory5",
+          "path": "progressive/graphics/tier-3/dawnPatrolStory5.webp",
+          "size": 135112,
+          "originalSize": 135112,
+          "format": "webp",
+          "tier": "tier3"
         }
       ],
       "terrain": [
@@ -2439,6 +2487,150 @@
           "originalSize": 4450,
           "format": "webp",
           "tier": "terrain"
+        },
+        {
+          "name": "dawn-patrol-1",
+          "path": "progressive/graphics/campaigns/dawn-patrol-1.webp",
+          "size": 27744,
+          "originalSize": 27744,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "dawn-patrol-2",
+          "path": "progressive/graphics/campaigns/dawn-patrol-2.webp",
+          "size": 47362,
+          "originalSize": 47362,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "dawn-patrol-3",
+          "path": "progressive/graphics/campaigns/dawn-patrol-3.webp",
+          "size": 43766,
+          "originalSize": 43766,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "dawn-patrol-4",
+          "path": "progressive/graphics/campaigns/dawn-patrol-4.webp",
+          "size": 74002,
+          "originalSize": 74002,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "dawn-patrol-5",
+          "path": "progressive/graphics/campaigns/dawn-patrol-5.webp",
+          "size": 71216,
+          "originalSize": 71216,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "hellfire-horizon-1",
+          "path": "progressive/graphics/campaigns/hellfire-horizon-1.webp",
+          "size": 40922,
+          "originalSize": 40922,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "hellfire-horizon-2",
+          "path": "progressive/graphics/campaigns/hellfire-horizon-2.webp",
+          "size": 86982,
+          "originalSize": 86982,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "hellfire-horizon-3",
+          "path": "progressive/graphics/campaigns/hellfire-horizon-3.webp",
+          "size": 63344,
+          "originalSize": 63344,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "hellfire-horizon-4",
+          "path": "progressive/graphics/campaigns/hellfire-horizon-4.webp",
+          "size": 47634,
+          "originalSize": 47634,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "hellfire-horizon-5",
+          "path": "progressive/graphics/campaigns/hellfire-horizon-5.webp",
+          "size": 40322,
+          "originalSize": 40322,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "hellfire-horizon-6",
+          "path": "progressive/graphics/campaigns/hellfire-horizon-6.webp",
+          "size": 76834,
+          "originalSize": 76834,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "hellfire-horizon-7",
+          "path": "progressive/graphics/campaigns/hellfire-horizon-7.webp",
+          "size": 37056,
+          "originalSize": 37056,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "steel-vanguard-1",
+          "path": "progressive/graphics/campaigns/steel-vanguard-1.webp",
+          "size": 47016,
+          "originalSize": 47016,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "steel-vanguard-2",
+          "path": "progressive/graphics/campaigns/steel-vanguard-2.webp",
+          "size": 35170,
+          "originalSize": 35170,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "steel-vanguard-3",
+          "path": "progressive/graphics/campaigns/steel-vanguard-3.webp",
+          "size": 18464,
+          "originalSize": 18464,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "steel-vanguard-4",
+          "path": "progressive/graphics/campaigns/steel-vanguard-4.webp",
+          "size": 30640,
+          "originalSize": 30640,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "steel-vanguard-5",
+          "path": "progressive/graphics/campaigns/steel-vanguard-5.webp",
+          "size": 22536,
+          "originalSize": 22536,
+          "format": "webp",
+          "tier": "campaign-terrain"
+        },
+        {
+          "name": "steel-vanguard-6",
+          "path": "progressive/graphics/campaigns/steel-vanguard-6.webp",
+          "size": 23982,
+          "originalSize": 23982,
+          "format": "webp",
+          "tier": "campaign-terrain"
         }
       ],
       "audio": [
@@ -2718,9 +2910,9 @@
     }
   },
   "totals": {
-    "originalSize": 508646836,
-    "compressedSize": 46369743,
-    "savings": "90.9%",
-    "fileCount": 337
+    "originalSize": 510030766,
+    "compressedSize": 47753673,
+    "savings": "90.6%",
+    "fileCount": 361
   }
 }

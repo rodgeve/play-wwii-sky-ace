@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated": "2026-01-04T23:26:36.005Z",
+  "generated": "2026-01-05T03:27:39.268Z",
   "bundles": {
     "initial": {
       "totalSize": 586720,
@@ -345,7 +345,7 @@
       "audio": []
     },
     "progressive": {
-      "totalSize": 10978290,
+      "totalSize": 11073858,
       "tier2": [
         {
           "name": "aaEmplacement",
@@ -632,22 +632,6 @@
           "path": "progressive/graphics/tier-2/dawnPatrolVictory2_thumb.webp",
           "size": 356,
           "originalSize": 1012,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "dawnPatrolVictory_1.withText",
-          "path": "progressive/graphics/tier-2/dawnPatrolVictory_1.withText.webp",
-          "size": 134398,
-          "originalSize": 2091450,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "dawnPatrolVictory_2.withText",
-          "path": "progressive/graphics/tier-2/dawnPatrolVictory_2.withText.webp",
-          "size": 85764,
-          "originalSize": 1781419,
           "format": "webp",
           "tier": "tier2"
         },
@@ -1068,26 +1052,10 @@
           "tier": "tier2"
         },
         {
-          "name": "hellfireVictory1",
-          "path": "progressive/graphics/tier-2/hellfireVictory1.webp",
-          "size": 57624,
-          "originalSize": 1665255,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
           "name": "hellfireVictory1_thumb",
           "path": "progressive/graphics/tier-2/hellfireVictory1_thumb.webp",
           "size": 384,
           "originalSize": 1142,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "hellfireVictory2",
-          "path": "progressive/graphics/tier-2/hellfireVictory2.webp",
-          "size": 64572,
-          "originalSize": 1637800,
           "format": "webp",
           "tier": "tier2"
         },
@@ -1164,26 +1132,10 @@
           "tier": "tier2"
         },
         {
-          "name": "steelVanguardVictory1",
-          "path": "progressive/graphics/tier-2/steelVanguardVictory1.webp",
-          "size": 72166,
-          "originalSize": 1916901,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
           "name": "steelVanguardVictory1_thumb",
           "path": "progressive/graphics/tier-2/steelVanguardVictory1_thumb.webp",
           "size": 398,
           "originalSize": 1264,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "steelVanguardVictory2",
-          "path": "progressive/graphics/tier-2/steelVanguardVictory2.webp",
-          "size": 106316,
-          "originalSize": 1837490,
           "format": "webp",
           "tier": "tier2"
         },
@@ -1404,46 +1356,6 @@
           "tier": "tier2"
         },
         {
-          "name": "dawnPatrolStory_1.withText",
-          "path": "progressive/graphics/tier-2/dawnPatrolStory_1.withText.webp",
-          "size": 122586,
-          "originalSize": 122586,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "dawnPatrolStory_2.withText",
-          "path": "progressive/graphics/tier-2/dawnPatrolStory_2.withText.webp",
-          "size": 77504,
-          "originalSize": 77504,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "dawnPatrolStory_3.withText",
-          "path": "progressive/graphics/tier-2/dawnPatrolStory_3.withText.webp",
-          "size": 80896,
-          "originalSize": 80896,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "dawnPatrolStory_4.withText",
-          "path": "progressive/graphics/tier-2/dawnPatrolStory_4.withText.webp",
-          "size": 78288,
-          "originalSize": 78288,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "dawnPatrolStory_5.withText",
-          "path": "progressive/graphics/tier-2/dawnPatrolStory_5.withText.webp",
-          "size": 137418,
-          "originalSize": 137418,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
           "name": "dawnPatrolVictory1",
           "path": "progressive/graphics/tier-2/dawnPatrolVictory1.webp",
           "size": 92858,
@@ -1454,8 +1366,8 @@
         {
           "name": "dawnPatrolVictory2",
           "path": "progressive/graphics/tier-2/dawnPatrolVictory2.webp",
-          "size": 79332,
-          "originalSize": 79332,
+          "size": 98932,
+          "originalSize": 98932,
           "format": "webp",
           "tier": "tier2"
         },
@@ -1536,6 +1448,54 @@
           "path": "progressive/graphics/tier-2/groundUrban_thumb.webp",
           "size": 200,
           "originalSize": 200,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "hellfireStory2",
+          "path": "progressive/graphics/tier-2/hellfireStory2.webp",
+          "size": 82098,
+          "originalSize": 82098,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "hellfireStory3",
+          "path": "progressive/graphics/tier-2/hellfireStory3.webp",
+          "size": 159514,
+          "originalSize": 159514,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "hellfireStory4",
+          "path": "progressive/graphics/tier-2/hellfireStory4.webp",
+          "size": 101736,
+          "originalSize": 101736,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "hellfireStory5",
+          "path": "progressive/graphics/tier-2/hellfireStory5.webp",
+          "size": 87310,
+          "originalSize": 87310,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "hellfireVictory1",
+          "path": "progressive/graphics/tier-2/hellfireVictory1.webp",
+          "size": 55178,
+          "originalSize": 55178,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "hellfireVictory2",
+          "path": "progressive/graphics/tier-2/hellfireVictory2.webp",
+          "size": 66016,
+          "originalSize": 66016,
           "format": "webp",
           "tier": "tier2"
         },
@@ -1664,6 +1624,62 @@
           "path": "progressive/graphics/tier-2/radarStation_thumb.webp",
           "size": 272,
           "originalSize": 272,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "steelVanguardStory1",
+          "path": "progressive/graphics/tier-2/steelVanguardStory1.webp",
+          "size": 92324,
+          "originalSize": 92324,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "steelVanguardStory2",
+          "path": "progressive/graphics/tier-2/steelVanguardStory2.webp",
+          "size": 88512,
+          "originalSize": 88512,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "steelVanguardStory3",
+          "path": "progressive/graphics/tier-2/steelVanguardStory3.webp",
+          "size": 55220,
+          "originalSize": 55220,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "steelVanguardStory4",
+          "path": "progressive/graphics/tier-2/steelVanguardStory4.webp",
+          "size": 63986,
+          "originalSize": 63986,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "steelVanguardStory5",
+          "path": "progressive/graphics/tier-2/steelVanguardStory5.webp",
+          "size": 62684,
+          "originalSize": 62684,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "steelVanguardVictory1",
+          "path": "progressive/graphics/tier-2/steelVanguardVictory1.webp",
+          "size": 77374,
+          "originalSize": 77374,
+          "format": "webp",
+          "tier": "tier2"
+        },
+        {
+          "name": "steelVanguardVictory2",
+          "path": "progressive/graphics/tier-2/steelVanguardVictory2.webp",
+          "size": 101548,
+          "originalSize": 101548,
           "format": "webp",
           "tier": "tier2"
         },
@@ -1974,26 +1990,10 @@
           "tier": "tier3"
         },
         {
-          "name": "hellfireStory2",
-          "path": "progressive/graphics/tier-3/hellfireStory2.webp",
-          "size": 84840,
-          "originalSize": 1629921,
-          "format": "webp",
-          "tier": "tier3"
-        },
-        {
           "name": "hellfireStory2_thumb",
           "path": "progressive/graphics/tier-3/hellfireStory2_thumb.webp",
           "size": 442,
           "originalSize": 1583,
-          "format": "webp",
-          "tier": "tier3"
-        },
-        {
-          "name": "hellfireStory3",
-          "path": "progressive/graphics/tier-3/hellfireStory3.webp",
-          "size": 162864,
-          "originalSize": 2140661,
           "format": "webp",
           "tier": "tier3"
         },
@@ -2006,26 +2006,10 @@
           "tier": "tier3"
         },
         {
-          "name": "hellfireStory4",
-          "path": "progressive/graphics/tier-3/hellfireStory4.webp",
-          "size": 110300,
-          "originalSize": 1820953,
-          "format": "webp",
-          "tier": "tier3"
-        },
-        {
           "name": "hellfireStory4_thumb",
           "path": "progressive/graphics/tier-3/hellfireStory4_thumb.webp",
           "size": 358,
           "originalSize": 989,
-          "format": "webp",
-          "tier": "tier3"
-        },
-        {
-          "name": "hellfireStory5",
-          "path": "progressive/graphics/tier-3/hellfireStory5.webp",
-          "size": 95064,
-          "originalSize": 1694196,
           "format": "webp",
           "tier": "tier3"
         },
@@ -2038,26 +2022,10 @@
           "tier": "tier3"
         },
         {
-          "name": "steelVanguardStory1",
-          "path": "progressive/graphics/tier-3/steelVanguardStory1.webp",
-          "size": 92324,
-          "originalSize": 1823278,
-          "format": "webp",
-          "tier": "tier3"
-        },
-        {
           "name": "steelVanguardStory1_thumb",
           "path": "progressive/graphics/tier-3/steelVanguardStory1_thumb.webp",
           "size": 412,
           "originalSize": 1169,
-          "format": "webp",
-          "tier": "tier3"
-        },
-        {
-          "name": "steelVanguardStory2",
-          "path": "progressive/graphics/tier-3/steelVanguardStory2.webp",
-          "size": 100902,
-          "originalSize": 1741296,
           "format": "webp",
           "tier": "tier3"
         },
@@ -2070,14 +2038,6 @@
           "tier": "tier3"
         },
         {
-          "name": "steelVanguardStory3",
-          "path": "progressive/graphics/tier-3/steelVanguardStory3.webp",
-          "size": 62048,
-          "originalSize": 1413159,
-          "format": "webp",
-          "tier": "tier3"
-        },
-        {
           "name": "steelVanguardStory3_thumb",
           "path": "progressive/graphics/tier-3/steelVanguardStory3_thumb.webp",
           "size": 298,
@@ -2086,26 +2046,10 @@
           "tier": "tier3"
         },
         {
-          "name": "steelVanguardStory4",
-          "path": "progressive/graphics/tier-3/steelVanguardStory4.webp",
-          "size": 68044,
-          "originalSize": 1591921,
-          "format": "webp",
-          "tier": "tier3"
-        },
-        {
           "name": "steelVanguardStory4_thumb",
           "path": "progressive/graphics/tier-3/steelVanguardStory4_thumb.webp",
           "size": 332,
           "originalSize": 818,
-          "format": "webp",
-          "tier": "tier3"
-        },
-        {
-          "name": "steelVanguardStory5",
-          "path": "progressive/graphics/tier-3/steelVanguardStory5.webp",
-          "size": 72094,
-          "originalSize": 1440940,
           "format": "webp",
           "tier": "tier3"
         },
@@ -2226,6 +2170,78 @@
           "path": "progressive/graphics/tier-3/dawnPatrolStory5.webp",
           "size": 135112,
           "originalSize": 135112,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "hellfireStory2",
+          "path": "progressive/graphics/tier-3/hellfireStory2.webp",
+          "size": 84840,
+          "originalSize": 84840,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "hellfireStory3",
+          "path": "progressive/graphics/tier-3/hellfireStory3.webp",
+          "size": 162864,
+          "originalSize": 162864,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "hellfireStory4",
+          "path": "progressive/graphics/tier-3/hellfireStory4.webp",
+          "size": 110300,
+          "originalSize": 110300,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "hellfireStory5",
+          "path": "progressive/graphics/tier-3/hellfireStory5.webp",
+          "size": 95064,
+          "originalSize": 95064,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "steelVanguardStory1",
+          "path": "progressive/graphics/tier-3/steelVanguardStory1.webp",
+          "size": 92324,
+          "originalSize": 92324,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "steelVanguardStory2",
+          "path": "progressive/graphics/tier-3/steelVanguardStory2.webp",
+          "size": 100902,
+          "originalSize": 100902,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "steelVanguardStory3",
+          "path": "progressive/graphics/tier-3/steelVanguardStory3.webp",
+          "size": 62048,
+          "originalSize": 62048,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "steelVanguardStory4",
+          "path": "progressive/graphics/tier-3/steelVanguardStory4.webp",
+          "size": 68044,
+          "originalSize": 68044,
+          "format": "webp",
+          "tier": "tier3"
+        },
+        {
+          "name": "steelVanguardStory5",
+          "path": "progressive/graphics/tier-3/steelVanguardStory5.webp",
+          "size": 72094,
+          "originalSize": 72094,
           "format": "webp",
           "tier": "tier3"
         }
@@ -2604,9 +2620,9 @@
     }
   },
   "totals": {
-    "originalSize": 348780950,
-    "compressedSize": 11565010,
-    "savings": "96.7%",
-    "fileCount": 323
+    "originalSize": 324019198,
+    "compressedSize": 11660578,
+    "savings": "96.4%",
+    "fileCount": 325
   }
 }

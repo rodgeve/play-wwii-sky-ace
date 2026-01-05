@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated": "2026-01-05T03:49:18.899Z",
+  "generated": "2026-01-05T04:18:38.972Z",
   "bundles": {
     "initial": {
       "totalSize": 586720,
@@ -345,7 +345,7 @@
       "audio": []
     },
     "progressive": {
-      "totalSize": 11073858,
+      "totalSize": 10270122,
       "tier2": [
         {
           "name": "aaEmplacement",
@@ -1452,38 +1452,6 @@
           "tier": "tier2"
         },
         {
-          "name": "hellfireStory2",
-          "path": "progressive/graphics/tier-2/hellfireStory2.webp",
-          "size": 82098,
-          "originalSize": 82098,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "hellfireStory3",
-          "path": "progressive/graphics/tier-2/hellfireStory3.webp",
-          "size": 159514,
-          "originalSize": 159514,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "hellfireStory4",
-          "path": "progressive/graphics/tier-2/hellfireStory4.webp",
-          "size": 101736,
-          "originalSize": 101736,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "hellfireStory5",
-          "path": "progressive/graphics/tier-2/hellfireStory5.webp",
-          "size": 87310,
-          "originalSize": 87310,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
           "name": "hellfireVictory1",
           "path": "progressive/graphics/tier-2/hellfireVictory1.webp",
           "size": 55178,
@@ -1624,46 +1592,6 @@
           "path": "progressive/graphics/tier-2/radarStation_thumb.webp",
           "size": 272,
           "originalSize": 272,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "steelVanguardStory1",
-          "path": "progressive/graphics/tier-2/steelVanguardStory1.webp",
-          "size": 92324,
-          "originalSize": 92324,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "steelVanguardStory2",
-          "path": "progressive/graphics/tier-2/steelVanguardStory2.webp",
-          "size": 88512,
-          "originalSize": 88512,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "steelVanguardStory3",
-          "path": "progressive/graphics/tier-2/steelVanguardStory3.webp",
-          "size": 55220,
-          "originalSize": 55220,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "steelVanguardStory4",
-          "path": "progressive/graphics/tier-2/steelVanguardStory4.webp",
-          "size": 63986,
-          "originalSize": 63986,
-          "format": "webp",
-          "tier": "tier2"
-        },
-        {
-          "name": "steelVanguardStory5",
-          "path": "progressive/graphics/tier-2/steelVanguardStory5.webp",
-          "size": 62684,
-          "originalSize": 62684,
           "format": "webp",
           "tier": "tier2"
         },
@@ -1976,7 +1904,7 @@
         {
           "name": "hellfireStory1",
           "path": "progressive/graphics/tier-3/hellfireStory1.webp",
-          "size": 150816,
+          "size": 162874,
           "originalSize": 1965280,
           "format": "webp",
           "tier": "tier3"
@@ -2176,32 +2104,32 @@
         {
           "name": "hellfireStory2",
           "path": "progressive/graphics/tier-3/hellfireStory2.webp",
-          "size": 84840,
-          "originalSize": 84840,
+          "size": 82098,
+          "originalSize": 82098,
           "format": "webp",
           "tier": "tier3"
         },
         {
           "name": "hellfireStory3",
           "path": "progressive/graphics/tier-3/hellfireStory3.webp",
-          "size": 162864,
-          "originalSize": 162864,
+          "size": 159514,
+          "originalSize": 159514,
           "format": "webp",
           "tier": "tier3"
         },
         {
           "name": "hellfireStory4",
           "path": "progressive/graphics/tier-3/hellfireStory4.webp",
-          "size": 110300,
-          "originalSize": 110300,
+          "size": 101736,
+          "originalSize": 101736,
           "format": "webp",
           "tier": "tier3"
         },
         {
           "name": "hellfireStory5",
           "path": "progressive/graphics/tier-3/hellfireStory5.webp",
-          "size": 95064,
-          "originalSize": 95064,
+          "size": 87310,
+          "originalSize": 87310,
           "format": "webp",
           "tier": "tier3"
         },
@@ -2620,9 +2548,9 @@
     }
   },
   "totals": {
-    "originalSize": 324019198,
-    "compressedSize": 11660578,
-    "savings": "96.4%",
-    "fileCount": 325
+    "originalSize": 323203404,
+    "compressedSize": 10856842,
+    "savings": "96.6%",
+    "fileCount": 316
   }
 }
